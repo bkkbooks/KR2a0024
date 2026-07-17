@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup7894}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_024-bkkpn1}
+  - {type: voice, offset: 14, length: 18, name: note, id: n1}
   - {type: indent, offset: 17, content: 　, id: KR2a0024_ZHSJ_024-bkkind1}
   - {type: variant, offset: 17, length: 1, content: 延, WYG: 綸}
   - {type: variant, offset: 17, length: 1, content: 延, krp: 綸}
@@ -31,6 +32,7 @@ markers:
   - {type: punctuation, offset: 32, content: ), id: KR2a0024_ZHSJ_024-bkkpn2}
   - {type: line-break, offset: 32, content: '', id: ZHSJ__dup7895}
   - {type: punctuation, offset: 35, content: (, id: KR2a0024_ZHSJ_024-bkkpn3}
+  - {type: voice, offset: 35, length: 12, name: note, id: n2}
   - {type: variant, offset: 36, length: 1, content: 弘, WYG: 𢎞}
   - {type: variant, offset: 36, length: 1, content: 弘, krp: 𢎞}
   - {type: indent, offset: 38, content: 　, id: KR2a0024_ZHSJ_024-bkkind6}
@@ -49,6 +51,7 @@ markers:
   - {type: punctuation, offset: 56, content: (, id: KR2a0024_ZHSJ_024-bkkpn5}
   - {type: variant, offset: 56, length: 1, content: 從, WYG: 曽孫清清子猛准之従}
   - {type: variant, offset: 56, length: 1, content: 從, krp: 曽孫清清子猛准之従}
+  - {type: voice, offset: 56, length: 9, name: note, id: n3}
   - {type: indent, offset: 60, content: 　, id: KR2a0024_ZHSJ_024-bkkind10}
   - {type: substitution, offset: 60, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: indent, offset: 62, content: 　, id: KR2a0024_ZHSJ_024-bkkind11}
@@ -4436,4 +4439,4 @@ markers:
   - {type: page-break, offset: 7293, content: '', id: KR2a0024_WYG_024-24b, image: WYG0265/WYG0265-0392b.png}
   - {type: variant, offset: 7293, length: 0, content: '', krp: 南史卷二十四南史卷二十四考證王延之傳即敕材官為起三間齋屋材監本誤校今从各本改王鎮之傳晉司州刺史胡之之從孫孫監本誤祖今訂正王思逺傳與廬江何昌㝢沛郡劉進上表理之㝢監本訛寓今改正南史卷二十四考證}
   back: []
-hash: sha256:bb00e56bfc30a3027c292d66a56e0c0fcde36b7b2b3ac9d3d288c03859f9e85b
+hash: sha256:5229c41cf8f2d9dd1b565b337c15792cd797c68ab434fdfdd2d6d343f791c5ba

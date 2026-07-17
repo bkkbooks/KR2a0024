@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup9096}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_028-bkkpn1}
+  - {type: voice, offset: 14, length: 46, name: note, id: n1}
   - {type: indent, offset: 17, content: 　, id: KR2a0024_ZHSJ_028-bkkind1}
   - {type: variant, offset: 17, length: 1, content: 玄, WYG: 彦𤣥}
   - {type: variant, offset: 17, length: 1, content: 玄, krp: 彦𤣥}
@@ -3583,4 +3584,4 @@ markers:
   - {type: page-break, offset: 5654, content: '', id: KR2a0024_WYG_028-19b, image: WYG0265/WYG0265-0445d.png}
   - {type: variant, offset: 5654, length: 0, content: '', krp: 南史卷二十八南史卷二十八考證褚裕之傳與行參軍漏恭期合力大敗賊扵柯亭期監本訛欺今从閣本褚彦回傳人君之重所宜克慎宜一本作以謂朝臣曰卿等並宋時公卿亦當不言我應得天子當不一本作不當南史卷二十八考證}
   back: []
-hash: sha256:42543803bd2b265e7d7d0bc639c7885631d6a717eb83ff4bf465fb8c490f68f6
+hash: sha256:472b16f27d8dd54c2c30baebf313ce1841f501d72bf11aee26f94b8850324ad0

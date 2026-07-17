@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup19727}
   - {type: indent, offset: 14, content: 　, id: KR2a0024_ZHSJ_067-bkkind1}
   - {type: punctuation, offset: 16, content: (, id: KR2a0024_ZHSJ_067-bkkpn1}
+  - {type: voice, offset: 16, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 19, content: ), id: KR2a0024_ZHSJ_067-bkkpn2}
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_067-bkkind2}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_067-bkkind3}
@@ -23,6 +24,7 @@ markers:
   - {type: variant, offset: 23, length: 1, content: 武, krp: 虎}
   - {type: indent, offset: 24, content: 　, id: KR2a0024_ZHSJ_067-bkkind4}
   - {type: punctuation, offset: 27, content: (, id: KR2a0024_ZHSJ_067-bkkpn3}
+  - {type: voice, offset: 27, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 30, content: ), id: KR2a0024_ZHSJ_067-bkkpn4}
   - {type: indent, offset: 30, content: 　, id: KR2a0024_ZHSJ_067-bkkind5}
   - {type: line-break, offset: 32, content: '', id: ZHSJ__dup19728}
@@ -36,19 +38,23 @@ markers:
   - {type: punctuation, offset: 50, content: (, id: KR2a0024_ZHSJ_067-bkkpn5}
   - {type: variant, offset: 50, length: 3, content: 子法尚, WYG: ''}
   - {type: variant, offset: 50, length: 3, content: 子法尚, krp: ''}
+  - {type: voice, offset: 50, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 53, content: ), id: KR2a0024_ZHSJ_067-bkkpn6}
   - {type: indent, offset: 53, content: 　, id: KR2a0024_ZHSJ_067-bkkind11}
   - {type: indent, offset: 55, content: 　, id: KR2a0024_ZHSJ_067-bkkind12}
   - {type: punctuation, offset: 58, content: (, id: KR2a0024_ZHSJ_067-bkkpn7}
+  - {type: voice, offset: 58, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 61, content: ), id: KR2a0024_ZHSJ_067-bkkpn8}
   - {type: indent, offset: 61, content: 　, id: KR2a0024_ZHSJ_067-bkkind13}
   - {type: punctuation, offset: 64, content: (, id: KR2a0024_ZHSJ_067-bkkpn9}
+  - {type: voice, offset: 64, length: 3, name: note, id: n5}
   - {type: variant, offset: 66, length: 1, content: 廉, WYG: 亷}
   - {type: variant, offset: 66, length: 1, content: 廉, krp: 亷}
   - {type: punctuation, offset: 67, content: ), id: KR2a0024_ZHSJ_067-bkkpn10}
   - {type: line-break, offset: 67, content: '', id: ZHSJ__dup19730}
   - {type: indent, offset: 69, content: 　, id: KR2a0024_ZHSJ_067-bkkind14}
   - {type: punctuation, offset: 71, content: (, id: KR2a0024_ZHSJ_067-bkkpn11}
+  - {type: voice, offset: 71, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 73, content: ), id: KR2a0024_ZHSJ_067-bkkpn12}
   - {type: xml-element, offset: 73, content: '', id: KR2a0024_ZHSJ_067-bkkxmlele2}
   - {type: xml-element, offset: 73, content: '', id: KR2a0024_ZHSJ_067-bkkxmlele3}
@@ -5567,4 +5573,4 @@ markers:
   - {type: page-break, offset: 10342, content: '', id: KR2a0024_WYG_067-34b, image: WYG0265/WYG0265-0958b.png}
   - {type: variant, offset: 10342, length: 0, content: '', krp: 南史卷六十七南史卷六十七考證胡穎傳呉興人也一本吳興東遷人也徐敬成傳起家著作佐郎永定元年陳書無佐字又元誤為九程靈洗傳遣使招諭久之乃降諭監本訛俞今改从陳書子文季傳秦郡前江浦通涂水涂陳書作塗齊軍深憚之謂為程彪彪一本作虎駱文牙傳駱文牙字旗門陳書無文字文牙母陳覩帝儀表知非常人陳監本訛陵今改从閣本魯廣達傳太建初與儀同章昭達入峽口招定安蜀等諸州鎮招陳書作拓時周圖江左一本周字下有氏將二字初隋將韓擒虎濟江廣達長子世真在新蔡乃與其弟世雄及所部奔擒擒遣使致書招廣達各卷或稱擒或稱擒虎此則兩行内亦有異同皆後人或加或刪而未盡者也蕭摩訶傳一旬之中水路遂斷周兵益至陳書無水路遂斷四字南史卷六十七考證}
   back: []
-hash: sha256:d697dd9c28e40a73b05438c62a51b46c2f9814450811bc46b5d4e34745700d71
+hash: sha256:375cef204522cebb822e4654e3435e66c618809cf17ed281a056b62dc2390f5b

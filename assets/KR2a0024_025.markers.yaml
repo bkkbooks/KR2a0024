@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 14, length: 1, content: 彥, WYG: 彦}
   - {type: variant, offset: 14, length: 1, content: 彥, krp: 彦}
   - {type: punctuation, offset: 16, content: (, id: KR2a0024_ZHSJ_025-bkkpn1}
+  - {type: voice, offset: 16, length: 14, name: note, id: n1}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_025-bkkind2}
   - {type: variant, offset: 18, length: 0, content: '', WYG: 洽}
   - {type: variant, offset: 18, length: 0, content: '', krp: 洽}
@@ -35,6 +36,7 @@ markers:
   - {type: punctuation, offset: 30, content: ), id: KR2a0024_ZHSJ_025-bkkpn2}
   - {type: indent, offset: 30, content: 　, id: KR2a0024_ZHSJ_025-bkkind6}
   - {type: punctuation, offset: 33, content: (, id: KR2a0024_ZHSJ_025-bkkpn3}
+  - {type: voice, offset: 33, length: 20, name: note, id: n2}
   - {type: line-break, offset: 37, content: '', id: ZHSJ__dup8154}
   - {type: variant, offset: 37, length: 0, content: '', WYG: 閎榮祖従父}
   - {type: variant, offset: 37, length: 0, content: '', krp: 閎榮祖従父}
@@ -47,6 +49,7 @@ markers:
   - {type: punctuation, offset: 53, content: ), id: KR2a0024_ZHSJ_025-bkkpn4}
   - {type: indent, offset: 53, content: 　, id: KR2a0024_ZHSJ_025-bkkind9}
   - {type: punctuation, offset: 56, content: (, id: KR2a0024_ZHSJ_025-bkkpn5}
+  - {type: voice, offset: 56, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 59, content: ), id: KR2a0024_ZHSJ_025-bkkpn6}
   - {type: xml-element, offset: 59, content: '', id: KR2a0024_ZHSJ_025-bkkxmlele2}
   - {type: xml-element, offset: 59, content: '', id: KR2a0024_ZHSJ_025-bkkxmlele3}
@@ -5426,4 +5429,4 @@ markers:
   - {type: page-break, offset: 9348, content: '', id: KR2a0024_WYG_025-30b, image: WYG0265/WYG0265-0407d.png}
   - {type: variant, offset: 9348, length: 0, content: '', krp: 南史卷二十五南史卷二十五考證到彦之𫝊後以軍功封佷山縣子佷山縣属武陵郡垣閎傳羽林監曇深者閲之子也閲監本作閎查上文云閎弟子曇深又云閎弟閲今改从閣本張欣泰傳欣泰通涉雅俗交接多是名素素監本誤哀今从南本後屋瓦墜傷額屋瓦監本作瓦屋今改從齊書南史卷二十五考證}
   back: []
-hash: sha256:e5ff000606c690cd4649f99d2acccadf1c64216dec86084d962dc39f3bd1cd1b
+hash: sha256:2b48e68d344a881c266b3f5319cca48e103804bf126652d6779eb631c8924984

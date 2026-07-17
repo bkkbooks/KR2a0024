@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup10053}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_032-bkkpn1}
+  - {type: voice, offset: 14, length: 17, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_032-bkkind1}
   - {type: variant, offset: 16, length: 0, content: '', WYG: 寶}
   - {type: variant, offset: 16, length: 0, content: '', krp: 寶}
@@ -4552,4 +4553,4 @@ markers:
   - {type: page-break, offset: 7412, content: '', id: KR2a0024_WYG_032-24b, image: WYG0265/WYG0265-0494d.png}
   - {type: variant, offset: 7412, length: 0, content: '', krp: 南史卷三十二南史卷三十二考證張邵傳初為晉瑯邪内史王誕龍驤府功曹桓𤣥徙誕扵廣州監本脱第二誕字今从晉書増正張敷傳樝何如梨何監本作可今从閣本其自標遇如此標一本作寵誤伯父茂度毎止譬之輙更感慟絶而復續茂度曰我冀譬汝有益但更甚耳冀監本訛異今改从閣本張暢傳義恭又餉炬燭十挺十一本作千今从魏書張融傳出為封溪令從叔永出後渚送之後監本訛夜今改正後以示鎮軍將軍顧顗之顗一本作覬顗之與融兄有恩好顗之卒融身負墳土監本脱兩之字今从齊書増入今聞南康缺守願得為之願監本訛應今从閣本南史卷三十二考證}
   back: []
-hash: sha256:268b11637ee9d9276853b391e76067a70ec311bf0586ab7479ed801aef98fdd3
+hash: sha256:a09a5f8a7e8aaa8ba465eb27bc092fe7d77f29e606e151edd36b45d562999017

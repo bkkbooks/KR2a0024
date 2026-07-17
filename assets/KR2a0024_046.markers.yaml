@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup13915}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_046-bkkpn1}
+  - {type: voice, offset: 15, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0024_ZHSJ_046-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_046-bkkind1}
   - {type: variant, offset: 20, length: 1, content: 靜, WYG: 静}
@@ -23,14 +24,17 @@ markers:
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_046-bkkind3}
   - {type: indent, offset: 25, content: 　, id: KR2a0024_ZHSJ_046-bkkind4}
   - {type: punctuation, offset: 27, content: (, id: KR2a0024_ZHSJ_046-bkkpn3}
+  - {type: voice, offset: 27, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 30, content: ), id: KR2a0024_ZHSJ_046-bkkpn4}
   - {type: line-break, offset: 30, content: '', id: ZHSJ__dup13916}
   - {type: indent, offset: 33, content: 　, id: KR2a0024_ZHSJ_046-bkkind5}
   - {type: indent, offset: 36, content: 　, id: KR2a0024_ZHSJ_046-bkkind6}
   - {type: punctuation, offset: 39, content: (, id: KR2a0024_ZHSJ_046-bkkpn5}
+  - {type: voice, offset: 39, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 42, content: ), id: KR2a0024_ZHSJ_046-bkkpn6}
   - {type: indent, offset: 42, content: 　, id: KR2a0024_ZHSJ_046-bkkind7}
   - {type: punctuation, offset: 45, content: (, id: KR2a0024_ZHSJ_046-bkkpn7}
+  - {type: voice, offset: 45, length: 5, name: note, id: n4}
   - {type: indent, offset: 48, content: 　, id: KR2a0024_ZHSJ_046-bkkind8}
   - {type: punctuation, offset: 50, content: ), id: KR2a0024_ZHSJ_046-bkkpn8}
   - {type: xml-element, offset: 50, content: '', id: KR2a0024_ZHSJ_046-bkkxmlele2}
@@ -3347,4 +3351,4 @@ markers:
   - {type: page-break, offset: 6131, content: '', id: KR2a0024_WYG_046-20b, image: WYG0265/WYG0265-0671d.png}
   - {type: variant, offset: 6131, length: 0, content: '', krp: 南史卷四十六南史卷四十六考證李安人傳吳興有項羽神䕶郡聽事又一項羽神事顧炎武日知錄所謂一事而互異者也曹武傳後為屯騎校尉帶南城令帶監本誤帝今改正呂安國傳諡肅侯侯監本訛俟今改正史臣論報罵之義理則宜然台輔之冀其何爽也報罵二字不可解本傳意望台鼎心常欎怏及酒後啟帝因致疎退一叚梁書不載所謂報罵者或指此然必有訛字南史卷四十六考證}
   back: []
-hash: sha256:3ae7871eb779ad53df168a918517aab7c49a80839d6679c25477efe59542b7b5
+hash: sha256:af84a5dacb3748d037f89418e7cea66d086bc7d7ad8b48e3de5b8e7db59f8a10

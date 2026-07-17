@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 15, content: '', id: ZHSJ__dup22302}
   - {type: indent, offset: 17, content: 　, id: KR2a0024_ZHSJ_075-bkkind1}
   - {type: punctuation, offset: 20, content: (, id: KR2a0024_ZHSJ_075-bkkpn1}
+  - {type: voice, offset: 20, length: 6, name: note, id: n1}
   - {type: indent, offset: 22, content: 　, id: KR2a0024_ZHSJ_075-bkkind2}
   - {type: variant, offset: 22, length: 0, content: '', WYG: 彧之}
   - {type: variant, offset: 22, length: 0, content: '', krp: 彧之}
@@ -38,6 +39,7 @@ markers:
   - {type: indent, offset: 51, content: 　, id: KR2a0024_ZHSJ_075-bkkind11}
   - {type: line-break, offset: 54, content: '', id: ZHSJ__dup22304}
   - {type: punctuation, offset: 57, content: (, id: KR2a0024_ZHSJ_075-bkkpn3}
+  - {type: voice, offset: 57, length: 6, name: note, id: n2}
   - {type: indent, offset: 60, content: 　, id: KR2a0024_ZHSJ_075-bkkind12}
   - {type: punctuation, offset: 63, content: ), id: KR2a0024_ZHSJ_075-bkkpn4}
   - {type: indent, offset: 63, content: 　, id: KR2a0024_ZHSJ_075-bkkind13}
@@ -47,11 +49,13 @@ markers:
   - {type: indent, offset: 68, content: 　, id: KR2a0024_ZHSJ_075-bkkind15}
   - {type: indent, offset: 70, content: 　, id: KR2a0024_ZHSJ_075-bkkind16}
   - {type: punctuation, offset: 70, content: (, id: KR2a0024_ZHSJ_075-bkkpn5}
+  - {type: voice, offset: 70, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 72, content: ), id: KR2a0024_ZHSJ_075-bkkpn6}
   - {type: indent, offset: 72, content: 　, id: KR2a0024_ZHSJ_075-bkkind17}
   - {type: substitution, offset: 74, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20835}}
   - {type: line-break, offset: 75, content: '', id: ZHSJ__dup22305}
   - {type: punctuation, offset: 75, content: (, id: KR2a0024_ZHSJ_075-bkkpn7}
+  - {type: voice, offset: 75, length: 11, name: note, id: n4}
   - {type: indent, offset: 78, content: 　, id: KR2a0024_ZHSJ_075-bkkind18}
   - {type: variant, offset: 78, length: 0, content: '', WYG: 兒}
   - {type: variant, offset: 78, length: 0, content: '', krp: 兒}
@@ -6146,4 +6150,4 @@ markers:
   - {type: page-break, offset: 10427, content: '', id: KR2a0024_WYG_075-34b, image: WYG0265/WYG0265-1076b.png}
   - {type: variant, offset: 10427, length: 0, content: '', krp: 南史卷七十五南史卷七十五考證宗測傳荆州刺史隨王子隆至遣别駕宗忻口致勞問忻一本作昕宗彧之傳宋元嘉初大使陸子眞觀採風俗眞監本作貞今从閣本沈道䖍傳道䖍常無食以立學徒武康令孔欣之厚相資給受業者咸得有成監本脱者字今从閣本増入孔淳之傳祖惔尚書祠部郎惔一本作琰關康之傳河東楊人也楊監本訛揚今改正蚊甚多通夕不得寢而終不道侵螫道監本訛間今改从閣本顧歡傳司徒從事中郎張翮作門律翮南本作融南史卷七十五考證}
   back: []
-hash: sha256:f6a5ff91ad74d57d5f730518bfe7e8a4e3eef682aa957b969e981780bfb4017a
+hash: sha256:21006a80d67881d3944e60b4e93a324b1730654a219b6b648243f5659bab1013

@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup18273}
   - {type: indent, offset: 14, content: 　, id: KR2a0024_ZHSJ_062-bkkind1}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_062-bkkpn1}
+  - {type: voice, offset: 14, length: 5, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_062-bkkind2}
   - {type: variant, offset: 16, length: 0, content: '', WYG: 琛}
   - {type: variant, offset: 16, length: 0, content: '', krp: 琛}
@@ -31,6 +32,7 @@ markers:
   - {type: indent, offset: 26, content: 　, id: KR2a0024_ZHSJ_062-bkkind6}
   - {type: indent, offset: 28, content: 　, id: KR2a0024_ZHSJ_062-bkkind7}
   - {type: punctuation, offset: 28, content: (, id: KR2a0024_ZHSJ_062-bkkpn3}
+  - {type: voice, offset: 28, length: 11, name: note, id: n2}
   - {type: line-break, offset: 30, content: '', id: ZHSJ__dup18274}
   - {type: variant, offset: 30, length: 0, content: '', WYG: 儀}
   - {type: variant, offset: 30, length: 0, content: '', krp: 儀}
@@ -47,6 +49,7 @@ markers:
   - {type: indent, offset: 39, content: 　, id: KR2a0024_ZHSJ_062-bkkind11}
   - {type: indent, offset: 41, content: 　, id: KR2a0024_ZHSJ_062-bkkind12}
   - {type: punctuation, offset: 41, content: (, id: KR2a0024_ZHSJ_062-bkkpn5}
+  - {type: voice, offset: 41, length: 8, name: note, id: n3}
   - {type: indent, offset: 44, content: 　, id: KR2a0024_ZHSJ_062-bkkind13}
   - {type: variant, offset: 44, length: 0, content: '', WYG: 客卿}
   - {type: variant, offset: 44, length: 0, content: '', krp: 客卿}
@@ -5617,4 +5620,4 @@ markers:
   - {type: page-break, offset: 9997, content: '', id: KR2a0024_WYG_062-33b, image: WYG0265/WYG0265-0886b.png}
   - {type: variant, offset: 9997, length: 0, content: '', krp: 南史卷六十二南史卷六十二考證朱异傳起宅東坡窮乎美麗晚朝來下酣飲其中朝一本作日子鵝炰鯂不輟於口鯂一本作鰌字書鯂音蘇與甦同若鰌恐非佳品疑有訛字愍彼阪田阪南本作陂徐摛傳簡文被閉摛不獲朝謁梁書閉字上有幽字徐陵傳既忝衡流諸賢深明鄙意忝監本誤尒今改正又陳書云既忝衡流應須粉墨所望諸賢深明鄙意較明白𢎞正舊藩長史王勱太平中相府長史陳書無中字徐儉傳儉一名報報陳書作衆汝南周𢎞直重其為人直陳書作正徐陵弟孝克傳欲嫁卿與當世人望彼此俱濟當世陳書作富應改从之鮑泉傳父㡬幾梁書作機泉於儀禮尤明撰新儀三十卷行於世三梁書作四南史卷六十二考證}
   back: []
-hash: sha256:2c9e705ebb430fd90723c336cbc67ee6b51a3711aeb0756ec2728917ed656b77
+hash: sha256:8b5d37413d5693f82e2d087a7c374a4c0fa120fb968113ac7a6ca232070b7c18

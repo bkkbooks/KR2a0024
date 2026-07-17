@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup15244}
   - {type: line-break, offset: 16, content: '', id: ZHSJ__dup15245}
   - {type: punctuation, offset: 20, content: (, id: KR2a0024_ZHSJ_051-bkkpn1}
+  - {type: voice, offset: 20, length: 9, name: note, id: n1}
   - {type: variant, offset: 21, length: 4, content: 勱勸勔勃, WYG: 勵}
   - {type: variant, offset: 21, length: 4, content: 勱勸勔勃, krp: 勵}
   - {type: indent, offset: 22, content: 　, id: KR2a0024_ZHSJ_051-bkkind1}
@@ -33,6 +34,7 @@ markers:
   - {type: variant, offset: 29, length: 0, content: '', WYG: 勃}
   - {type: variant, offset: 29, length: 0, content: '', krp: 勃}
   - {type: punctuation, offset: 35, content: (, id: KR2a0024_ZHSJ_051-bkkpn3}
+  - {type: voice, offset: 35, length: 17, name: note, id: n2}
   - {type: indent, offset: 37, content: 　, id: KR2a0024_ZHSJ_051-bkkind7}
   - {type: variant, offset: 37, length: 0, content: '', WYG: 韶}
   - {type: variant, offset: 37, length: 0, content: '', krp: 韶}
@@ -58,6 +60,7 @@ markers:
   - {type: indent, offset: 62, content: 　, id: KR2a0024_ZHSJ_051-bkkind15}
   - {type: page-break, offset: 62, content: '', id: KR2a0024_WYG_051-1b, image: WYG0265/WYG0265-0723d.png}
   - {type: punctuation, offset: 67, content: (, id: KR2a0024_ZHSJ_051-bkkpn5}
+  - {type: voice, offset: 67, length: 5, name: note, id: n3}
   - {type: indent, offset: 69, content: 　, id: KR2a0024_ZHSJ_051-bkkind16}
   - {type: variant, offset: 69, length: 0, content: '', WYG: 慥}
   - {type: variant, offset: 69, length: 0, content: '', krp: 慥}
@@ -70,6 +73,7 @@ markers:
   - {type: variant, offset: 77, length: 1, content: 宏, WYG: ''}
   - {type: variant, offset: 77, length: 1, content: 宏, krp: ''}
   - {type: punctuation, offset: 78, content: (, id: KR2a0024_ZHSJ_051-bkkpn7}
+  - {type: voice, offset: 78, length: 34, name: note, id: n4}
   - {type: indent, offset: 82, content: 　, id: KR2a0024_ZHSJ_051-bkkind17}
   - {type: indent, offset: 84, content: 　, id: KR2a0024_ZHSJ_051-bkkind18}
   - {type: variant, offset: 85, length: 0, content: '', WYG: 義弟正徳正}
@@ -5473,4 +5477,4 @@ markers:
   - {type: page-break, offset: 9613, content: '', id: KR2a0024_WYG_051-31b, image: WYG0265/WYG0265-0739b.png}
   - {type: variant, offset: 9613, length: 0, content: '', krp: 南史卷五十一南史卷五十一考證吳平侯景傳梁武帝從父弟也從父弟監本誤從弟父今从梁書改正長沙宣武王懿子猷傳為吳興郡守性倜儻與楚王廟神交飲至一斗下文遥禱請救大破齊茍兒與南齊書蕭惠休事神謹故得美遷畧同猷子韶傳湘東王徳之改超繼宣武王封長沙王超疑係韶字之訛但各本俱同姑仍之桂陽簡王融子象傳位丹陽尹位監本訛於今改正臨川靜惠王宏傳豈有百萬之師輕言可退輕監本作卿今从閣本親從子女徧游王侯後宫難免兄弟九人因權勢横於都下難一本作男又注云一作難然俱不可解南史卷五十一考證}
   back: []
-hash: sha256:d3592c4a70fa97e9fabe7a54b14cb160a1a7343244badaa81368f57a40ae3518
+hash: sha256:41bfaff276fe3381db75520ffe95e464bc14ac9e1eb3b1997ff058bd3073a103

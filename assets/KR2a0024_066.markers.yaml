@@ -16,11 +16,13 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup19375}
   - {type: indent, offset: 15, content: 　, id: KR2a0024_ZHSJ_066-bkkind1}
   - {type: punctuation, offset: 18, content: (, id: KR2a0024_ZHSJ_066-bkkpn1}
+  - {type: voice, offset: 18, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 21, content: ), id: KR2a0024_ZHSJ_066-bkkpn2}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_066-bkkind2}
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_066-bkkind3}
   - {type: indent, offset: 26, content: 　, id: KR2a0024_ZHSJ_066-bkkind4}
   - {type: punctuation, offset: 29, content: (, id: KR2a0024_ZHSJ_066-bkkpn3}
+  - {type: voice, offset: 29, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 31, content: ), id: KR2a0024_ZHSJ_066-bkkpn4}
   - {type: line-break, offset: 31, content: '', id: ZHSJ__dup19376}
   - {type: variant, offset: 31, length: 1, content: 黃, WYG: 黄}
@@ -34,6 +36,7 @@ markers:
   - {type: variant, offset: 39, length: 1, content: 吳, WYG: 呉}
   - {type: variant, offset: 39, length: 1, content: 吳, krp: 呉}
   - {type: punctuation, offset: 42, content: (, id: KR2a0024_ZHSJ_066-bkkpn6}
+  - {type: voice, offset: 42, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 45, content: ), id: KR2a0024_ZHSJ_066-bkkpn7}
   - {type: xml-element, offset: 45, content: '', id: KR2a0024_ZHSJ_066-bkkxmlele2}
   - {type: xml-element, offset: 45, content: '', id: KR2a0024_ZHSJ_066-bkkxmlele3}
@@ -5170,4 +5173,4 @@ markers:
   - {type: page-break, offset: 10085, content: '', id: KR2a0024_WYG_066-33b, image: WYG0265/WYG0265-0941b.png}
   - {type: variant, offset: 10085, length: 0, content: '', krp: 南史卷六十六南史卷六十六考證杜僧明傳武帝頓豫章命僧明為前驅命陳書作㑹誤周文育傳文育對曰母老家貧兄弟姊並長大陳書無弟字後監州王勱以文育為長流深被委任長流下陳書有令字侯瑱傳是時瑱據中流甚强甚强陳書作兵甚强侯安都傳父捍少仕州郡捍陳書作文捍禽齊儀同乞伏無芳伏閣本作扶又芳陳書作勞放拍碎其樓陳書樓字下有雉字歐陽頠傳蘭欽弟前高州刺史裕攻始興内史蕭昭基奪其郡昭陳書作紹黄法氍傳日歩行二百里陳書歩行日三百里於是為抛車及歩艦豎拍以逼之抛陳書作拍章昭逹傳眇其一目眇監本訛𦕈今改正呉明徹傳字通炤炤陳書作昭年十四感墳塋未脩脩陳書作偹到仲舉之矯令出宣帝也毛喜知其詐詐一本作謀又遏肥水灌城又監本訛尺陳書云又迮肥水以灌城今改正南史卷六十六考證}
   back: []
-hash: sha256:0d682be843f4a80246a0c7a18d2c85b780cc73c131693879bc2d30ef8204fc5e
+hash: sha256:dc3e5027131071ea6060c0c296eb89645afb0951eb1f22a32a351a7c4af29e90

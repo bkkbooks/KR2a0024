@@ -17,12 +17,14 @@ markers:
   - {type: variant, offset: 8, length: 1, content: 第, krp: ''}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup16977}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_057-bkkpn1}
+  - {type: voice, offset: 14, length: 4, name: note, id: n1}
   - {type: variant, offset: 15, length: 1, content: 旋, WYG: 族}
   - {type: variant, offset: 15, length: 1, content: 旋, krp: 族}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_057-bkkind1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0024_ZHSJ_057-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_057-bkkind2}
   - {type: punctuation, offset: 20, content: (, id: KR2a0024_ZHSJ_057-bkkpn3}
+  - {type: voice, offset: 20, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 23, content: ), id: KR2a0024_ZHSJ_057-bkkpn4}
   - {type: xml-element, offset: 23, content: '', id: KR2a0024_ZHSJ_057-bkkxmlele2}
   - {type: xml-element, offset: 23, content: '', id: KR2a0024_ZHSJ_057-bkkxmlele3}
@@ -4764,4 +4766,4 @@ markers:
   - {type: page-break, offset: 8602, content: '', id: KR2a0024_WYG_057-28b, image: WYG0265/WYG0265-0822b.png}
   - {type: variant, offset: 8602, length: 0, content: '', krp: 南史卷五十七南史卷五十七考證沈約傳林子輙摧鋒居前摧監本作推今改从閣本子旋傳衆字仲師師一本作興時梁武帝制千文詩衆為之注解顧炎武曰千字文有二本舊唐書經籍志千字文一卷蕭子範撰又一卷周興嗣撰是也今云梁武制千文詩則不獨興嗣子範二人矣又隋書經籍志興嗣千字文國子祭酒蕭子雲注而梁書蕭子範傳謂子範作之記室蔡薳注釋今云衆為之注解亦彼此互異范雲傳雲入境撫以恩德罷亭候亭監本訛停今改从閣本梁武與兄懿卜居東郊之外東監本誤築又下文梁武毎至雲所其妻甞聞蹕聲句蹕誤跋今俱改正家事必先諮而後行先諮監本誤元詔今改从閣本交游不雜監本脱不雜二字今増入南史卷五十七考證}
   back: []
-hash: sha256:803025600c92f5e59a57ecd023d4fb3f826cc406d55b8c785e65b4420e30d8a8
+hash: sha256:3923c9da0b77d8394f5d7a26da1a8a6865779ef6340c7896cc3b4dded1bfe70c

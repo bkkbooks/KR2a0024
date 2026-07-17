@@ -17,6 +17,7 @@ markers:
   - {type: variant, offset: 10, length: 1, content: 弘, WYG: 𢎞}
   - {type: variant, offset: 10, length: 1, content: 弘, krp: 𢎞}
   - {type: punctuation, offset: 12, content: (, id: KR2a0024_ZHSJ_020-bkkpn1}
+  - {type: voice, offset: 12, length: 29, name: note, id: n1}
   - {type: indent, offset: 14, content: 　, id: KR2a0024_ZHSJ_020-bkkind1}
   - {type: variant, offset: 14, length: 0, content: '', WYG: 顥朏弟}
   - {type: variant, offset: 14, length: 0, content: '', krp: 顥朏弟}
@@ -3857,4 +3858,4 @@ markers:
   - {type: page-break, offset: 6432, content: '', id: KR2a0024_WYG_020-21b, image: WYG0265/WYG0265-0335b.png}
   - {type: variant, offset: 6432, length: 0, content: '', krp: 南史卷二十南史卷二十考證謝密傳𢎞微與琅邪王慧王球慧宋書作恵謝莊傳藍田生玉豈虚也哉生一本作出晝夜惛懵為此不復得朝謁諸王謁監本訛修今从宋書謝朏傳及還五官送錢一萬止留一百官監本訛宫今以閣本南史卷二十考證}
   back: []
-hash: sha256:89b62f58f44a31532098bafe4a536b29124e5a4c0c9fb6b68b971862a35b6d80
+hash: sha256:3e04280bc160ac5c88effa808850d5560dcc2b2807ba33d0b904730d2a36054e

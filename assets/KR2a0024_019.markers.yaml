@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: ZHSJ__dup6334}
   - {type: indent, offset: 11, content: 　, id: KR2a0024_ZHSJ_019-bkkind1}
   - {type: punctuation, offset: 11, content: (, id: KR2a0024_ZHSJ_019-bkkpn1}
+  - {type: voice, offset: 11, length: 8, name: note, id: n1}
   - {type: indent, offset: 13, content: 　, id: KR2a0024_ZHSJ_019-bkkind2}
   - {type: variant, offset: 13, length: 0, content: '', WYG: 澹}
   - {type: variant, offset: 13, length: 0, content: '', krp: 澹}
@@ -32,6 +33,7 @@ markers:
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_019-bkkind4}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_019-bkkind5}
   - {type: punctuation, offset: 21, content: (, id: KR2a0024_ZHSJ_019-bkkpn6}
+  - {type: voice, offset: 21, length: 11, name: note, id: n2}
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_019-bkkind6}
   - {type: variant, offset: 23, length: 1, content: 玄, WYG: 純𤣥}
   - {type: variant, offset: 23, length: 1, content: 玄, krp: 純𤣥}
@@ -46,10 +48,12 @@ markers:
   - {type: line-break, offset: 32, content: '', id: ZHSJ__dup6335}
   - {type: indent, offset: 35, content: 　, id: KR2a0024_ZHSJ_019-bkkind10}
   - {type: punctuation, offset: 35, content: (, id: KR2a0024_ZHSJ_019-bkkpn8}
+  - {type: voice, offset: 35, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 38, content: ), id: KR2a0024_ZHSJ_019-bkkpn9}
   - {type: indent, offset: 38, content: 　, id: KR2a0024_ZHSJ_019-bkkind11}
   - {type: indent, offset: 41, content: 　, id: KR2a0024_ZHSJ_019-bkkind12}
   - {type: punctuation, offset: 41, content: (, id: KR2a0024_ZHSJ_019-bkkpn10}
+  - {type: voice, offset: 41, length: 7, name: note, id: n4}
   - {type: indent, offset: 44, content: 　, id: KR2a0024_ZHSJ_019-bkkind13}
   - {type: variant, offset: 44, length: 0, content: '', WYG: 卿}
   - {type: variant, offset: 44, length: 0, content: '', krp: 卿}
@@ -5927,4 +5931,4 @@ markers:
   - {type: page-break, offset: 10251, content: '', id: KR2a0024_WYG_019-33b, image: WYG0265/WYG0265-0324b.png}
   - {type: variant, offset: 10251, length: 0, content: '', krp: 南史卷十九南史卷十九考證謝瞻傳瞻文章之羙與從叔琨族弟靈運相抗琨一本作混應从之謝純弟述傳述號泣答曰若安全至岸尚須營理監本脱尚字今从各本増謝方明傳承代前人不易其政必宜改者則漸變政監本訛正今从梁書謝超宗傳常醉上召見語及北方事語監本訛詔今改正以失儀出為南郡王中軍司馬失監本訛朱今从閣本南史卷十九考證}
   back: []
-hash: sha256:2577fca800e47f0ba5c52833f083bc4b3f9d22b0bab387a55b10cb38d1292cf5
+hash: sha256:e8cfb0d038196681c96e91198c5f03e25d37686b64705c8fa792bad544b14572

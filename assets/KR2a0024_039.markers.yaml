@@ -18,6 +18,7 @@ markers:
   - {type: punctuation, offset: 18, content: ), id: KR2a0024_ZHSJ_039-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_039-bkkind1}
   - {type: punctuation, offset: 20, content: (, id: KR2a0024_ZHSJ_039-bkkpn3}
+  - {type: 'voice:problem', offset: 20, length: 13, id: KR2a0024_bkk_039-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 20, got ''('' at offset 33'}
   - {type: indent, offset: 22, content: 　, id: KR2a0024_ZHSJ_039-bkkind2}
   - {type: variant, offset: 22, length: 1, content: 孫, WYG: 覧}
   - {type: variant, offset: 22, length: 1, content: 孫, krp: 覧}
@@ -3404,4 +3405,4 @@ markers:
   - {type: page-break, offset: 6156, content: '', id: KR2a0024_WYG_039-21b, image: WYG0265/WYG0265-0590d.png}
   - {type: variant, offset: 6156, length: 0, content: '', krp: 南史卷三十九南史卷三十九考證殷琰傳司空褚彦回監本缺褚字今增正劉悛子孺傳字孝稚孝一本作季今从梁書劉孝綽弟潜傳第二兄孝熊熊梁書作能劉瑱傳寵姬亦被廢苦寵一本作此南史卷三十九考證}
   back: []
-hash: sha256:eeae227fca76499a2e653bfa01f3d7e5fd6abbaaddde40150707d4a21a087b10
+hash: sha256:911953948a42ed35435ce48eb99ae759d3774ad556cfbf36bc3a56adf8c6c835

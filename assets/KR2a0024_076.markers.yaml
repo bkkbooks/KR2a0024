@@ -17,11 +17,13 @@ markers:
   - {type: line-break, offset: 15, content: '', id: ZHSJ__dup22678}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_076-bkkind1}
   - {type: punctuation, offset: 20, content: (, id: KR2a0024_ZHSJ_076-bkkpn1}
+  - {type: voice, offset: 20, length: 8, name: note, id: n1}
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_076-bkkind2}
   - {type: indent, offset: 25, content: 　, id: KR2a0024_ZHSJ_076-bkkind3}
   - {type: punctuation, offset: 28, content: ), id: KR2a0024_ZHSJ_076-bkkpn2}
   - {type: indent, offset: 28, content: 　, id: KR2a0024_ZHSJ_076-bkkind4}
   - {type: punctuation, offset: 31, content: (, id: KR2a0024_ZHSJ_076-bkkpn3}
+  - {type: voice, offset: 31, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 34, content: ), id: KR2a0024_ZHSJ_076-bkkpn4}
   - {type: indent, offset: 34, content: 　, id: KR2a0024_ZHSJ_076-bkkind5}
   - {type: line-break, offset: 37, content: '', id: ZHSJ__dup22679}
@@ -30,6 +32,7 @@ markers:
   - {type: variant, offset: 43, length: 1, content: 弘, WYG: 𢎞}
   - {type: variant, offset: 43, length: 1, content: 弘, krp: 𢎞}
   - {type: punctuation, offset: 45, content: (, id: KR2a0024_ZHSJ_076-bkkpn5}
+  - {type: voice, offset: 45, length: 3, name: note, id: n3}
   - {type: variant, offset: 46, length: 1, content: 寶, WYG: 寳}
   - {type: variant, offset: 46, length: 1, content: 寶, krp: 寳}
   - {type: substitution, offset: 47, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
@@ -38,6 +41,7 @@ markers:
   - {type: indent, offset: 51, content: 　, id: KR2a0024_ZHSJ_076-bkkind9}
   - {type: page-break, offset: 51, content: '', id: KR2a0024_WYG_076-1b, image: WYG0265/WYG0265-1077b.png}
   - {type: punctuation, offset: 54, content: (, id: KR2a0024_ZHSJ_076-bkkpn7}
+  - {type: voice, offset: 54, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 57, content: ), id: KR2a0024_ZHSJ_076-bkkpn8}
   - {type: line-break, offset: 57, content: '', id: ZHSJ__dup22680}
   - {type: punctuation, offset: 57, content: (, id: KR2a0024_ZHSJ_076-bkkpn9}
@@ -4776,4 +4780,4 @@ markers:
   - {type: page-break, offset: 8058, content: '', id: KR2a0024_WYG_076-26b, image: WYG0265/WYG0265-1089d.png}
   - {type: variant, offset: 8058, length: 0, content: '', krp: 南史卷七十六南史卷七十六考證臧榮緒傳自號披褐先生披監本訛彼今改正呉苞傳臘燭一挺臘應作蠟今各本俱同仍之沈麟士傳走雖不敏請附高卿有蹈東海死耳卿一本作節昇明末太守王奐永明中中書郎沈約並表薦之並監本訛呈今改从南本陶𢎞景傳梁武帝尤深敬事問年祚逺近祚南本作數今从監本南史卷七十六考證}
   back: []
-hash: sha256:42819993e00dbb169bd536ca880e580bf26a0cdda09412fc1559e2c4f426aaa0
+hash: sha256:5eef7669de27840dcc3475405056c5ee62949810e68cdf17a55414a85011c674

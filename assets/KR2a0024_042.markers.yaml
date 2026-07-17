@@ -20,6 +20,7 @@ markers:
   - {type: variant, offset: 18, length: 26, content: 豫章文獻王嶷子子廉子恪子操子範子範子乾子範弟子顯子雲, WYG: ''}
   - {type: variant, offset: 18, length: 26, content: 豫章文獻王嶷子子廉子恪子操子範子範子乾子範弟子顯子雲, krp: ''}
   - {type: punctuation, offset: 24, content: (, id: KR2a0024_ZHSJ_042-bkkpn1}
+  - {type: voice, offset: 24, length: 20, name: note, id: n1}
   - {type: indent, offset: 27, content: 　, id: KR2a0024_ZHSJ_042-bkkind1}
   - {type: indent, offset: 29, content: 　, id: KR2a0024_ZHSJ_042-bkkind2}
   - {type: indent, offset: 31, content: 　, id: KR2a0024_ZHSJ_042-bkkind3}
@@ -3973,4 +3974,4 @@ markers:
   - {type: page-break, offset: 7121, content: '', id: KR2a0024_WYG_042-23b, image: WYG0265/WYG0265-0625b.png}
   - {type: variant, offset: 7121, length: 0, content: '', krp: 南史卷四十二南史卷四十二考證豫章文獻王嶷傳江建來蘓建一本作漢又下文古人云朞用有成而公旬日成化豈不休哉用作月似俱應从之上數幸嶷第第各本俱訛弟今改正子廉弟子恪傳使製千字文其辭甚羙王命記室蔡薳注釋之此與梁書同惟隋書經籍志云千字文一卷梁國子祭酒蕭子雲注與此異子雲傳自云善效鍾元常王逸少鍾監本訛鐘今改正南史卷四十二考證}
   back: []
-hash: sha256:f5e56fe5246d156a82be81ba894bec2243e9f21bf33390d90788c10b90b96f89
+hash: sha256:f6369372f9e8e8cc6014c7c127882b91858417fde816b071b1db1808d7ce546e

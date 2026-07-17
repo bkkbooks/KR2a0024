@@ -15,12 +15,15 @@ markers:
   - {type: variant, offset: 13, length: 1, content: 泰, WYG: 㤗}
   - {type: variant, offset: 13, length: 1, content: 泰, krp: 㤗}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_033-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0024_ZHSJ_033-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_033-bkkind1}
   - {type: punctuation, offset: 19, content: (, id: KR2a0024_ZHSJ_033-bkkpn3}
+  - {type: voice, offset: 19, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 23, content: ), id: KR2a0024_ZHSJ_033-bkkpn4}
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_033-bkkind2}
   - {type: punctuation, offset: 25, content: (, id: KR2a0024_ZHSJ_033-bkkpn5}
+  - {type: voice, offset: 25, length: 6, name: note, id: n3}
   - {type: indent, offset: 27, content: 　, id: KR2a0024_ZHSJ_033-bkkind3}
   - {type: variant, offset: 27, length: 0, content: '', WYG: 子豁}
   - {type: variant, offset: 27, length: 0, content: '', krp: 子豁}
@@ -30,6 +33,7 @@ markers:
   - {type: indent, offset: 31, content: 　, id: KR2a0024_ZHSJ_033-bkkind4}
   - {type: line-break, offset: 34, content: '', id: ZHSJ__dup10319}
   - {type: punctuation, offset: 37, content: (, id: KR2a0024_ZHSJ_033-bkkpn7}
+  - {type: voice, offset: 37, length: 7, name: note, id: n4}
   - {type: indent, offset: 40, content: 　, id: KR2a0024_ZHSJ_033-bkkind5}
   - {type: variant, offset: 40, length: 0, content: '', WYG: 野}
   - {type: variant, offset: 40, length: 0, content: '', krp: 野}
@@ -38,6 +42,7 @@ markers:
   - {type: punctuation, offset: 44, content: ), id: KR2a0024_ZHSJ_033-bkkpn8}
   - {type: indent, offset: 44, content: 　, id: KR2a0024_ZHSJ_033-bkkind6}
   - {type: punctuation, offset: 47, content: (, id: KR2a0024_ZHSJ_033-bkkpn9}
+  - {type: voice, offset: 47, length: 3, name: note, id: n5}
   - {type: variant, offset: 49, length: 1, content: 遜, WYG: 逰}
   - {type: variant, offset: 49, length: 1, content: 遜, krp: 逰}
   - {type: punctuation, offset: 50, content: ), id: KR2a0024_ZHSJ_033-bkkpn10}
@@ -6282,4 +6287,4 @@ markers:
   - {type: page-break, offset: 10859, content: '', id: KR2a0024_WYG_033-35b, image: WYG0265/WYG0265-0512b.png}
   - {type: variant, offset: 10859, length: 0, content: '', krp: 南史卷三十三考證范泰傳上每優容之容監本訛遊今改从宋書匹婦一至亦能有所感激匹監本訛疋今改正范曄傳在生已可知來緣㦎無識㦎監本訛㦎今从宋書改正姉今不來勝人多也姉監本訛妹今改从宋書及閣本荀伯子傳故太保衛瓘本爵菑陽縣公菑宋書作蕭誤鄭鮮之傳先是兖州刺史滕怙為丁零翟所沒怙一本作恬使羣僚博議博監本訛溥今改从宋書政以事有變通不可宗一故耳宗宋書作守今各本俱同仍之使書侍御史丘洹奏彈毅輙宥傳詔羅道盛洹一本作恒裴松之傳義熙初為興故彰令彰一本作鄣裴子野傳從坐免職或勸言請有司可無咎請梁書作諸中書郎范縝與子野未遇聞其行業而善焉梁書無郎字何承天傳丁況三家數十年中𦵏輙無棺櫬丁監本訛下令據上文丁況等乆喪而不𦵏改正遇古冢冢上得一銅斗遇一本作過何遜傳頃觀文人質則過儒麗則傷俗儒一本作懦南史卷三十三考證}
   back: []
-hash: sha256:7b6cdcaa32cf09c0831b1fd6a4f3f037bdc5d522e01ad419803f3c19f95b4fa2
+hash: sha256:a9577e4239f7b0158c2b89605947a183a00d8aa4a74411e8a9742e1f7fb824ce

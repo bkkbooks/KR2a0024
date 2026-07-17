@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup23906}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup23907}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_080-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0024_ZHSJ_080-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_080-bkkind1}
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_080-bkkind2}
@@ -7353,4 +7354,4 @@ markers:
   - {type: page-break, offset: 13410, content: '', id: KR2a0024_WYG_080-42b}
   - {type: variant, offset: 13410, length: 0, content: '', krp: 南史卷八十南史卷八十考證侯景傳澄知景無歸志澄監本訛燈今改从齊書王若次近郊必郊迎因而執之郊迎監本訛廵警今从閣本改正遣南浦侯推守東府城推各本訛持今从監本陳文徹李欽屯丹陽郡上文云南陵太守陳文徹宣猛將軍李孝欽此脫孝字大王以十萬之師未見賊而退若何大監本訛夫今从閣本起自懸瓠即昔之汝南瓠監本訛匏今改正王偉傳僧辯曰汝頭方行萬里何八十里哉監本脱八字今从上文偉曰昨及朝行八十里句增正南史卷八十考證}
   back: []
-hash: sha256:059faf2f980ed07981d74a4534914380bd5b1998c78172cbccaf9b9cbefefdd1
+hash: sha256:13beb0f5ea844d756769d002a95add83a6e195fd4cffe21ea30c355ab9e70a38

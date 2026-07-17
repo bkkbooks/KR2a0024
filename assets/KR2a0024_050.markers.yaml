@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 5, length: 0, content: '', krp: 唐李延壽撰}
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup14968}
   - {type: punctuation, offset: 12, content: (, id: KR2a0024_ZHSJ_050-bkkpn1}
+  - {type: voice, offset: 12, length: 6, name: note, id: n1}
   - {type: indent, offset: 14, content: 　, id: KR2a0024_ZHSJ_050-bkkind1}
   - {type: variant, offset: 14, length: 0, content: '', WYG: 弟㲄}
   - {type: variant, offset: 14, length: 0, content: '', krp: 弟㲄}
@@ -24,11 +25,13 @@ markers:
   - {type: punctuation, offset: 18, content: ), id: KR2a0024_ZHSJ_050-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_050-bkkind3}
   - {type: punctuation, offset: 21, content: (, id: KR2a0024_ZHSJ_050-bkkpn3}
+  - {type: voice, offset: 21, length: 3, name: note, id: n2}
   - {type: variant, offset: 23, length: 1, content: 賓, WYG: 賔}
   - {type: variant, offset: 23, length: 1, content: 賓, krp: 賔}
   - {type: punctuation, offset: 24, content: ), id: KR2a0024_ZHSJ_050-bkkpn4}
   - {type: indent, offset: 24, content: 　, id: KR2a0024_ZHSJ_050-bkkind4}
   - {type: punctuation, offset: 26, content: (, id: KR2a0024_ZHSJ_050-bkkpn5}
+  - {type: voice, offset: 26, length: 7, name: note, id: n3}
   - {type: indent, offset: 29, content: 　, id: KR2a0024_ZHSJ_050-bkkind5}
   - {type: variant, offset: 29, length: 0, content: '', WYG: 肩吾}
   - {type: variant, offset: 29, length: 0, content: '', krp: 肩吾}
@@ -38,6 +41,7 @@ markers:
   - {type: punctuation, offset: 33, content: ), id: KR2a0024_ZHSJ_050-bkkpn6}
   - {type: line-break, offset: 33, content: '', id: ZHSJ__dup14969}
   - {type: punctuation, offset: 35, content: (, id: KR2a0024_ZHSJ_050-bkkpn7}
+  - {type: voice, offset: 35, length: 9, name: note, id: n4}
   - {type: indent, offset: 38, content: 　, id: KR2a0024_ZHSJ_050-bkkind7}
   - {type: variant, offset: 38, length: 0, content: '', WYG: 坦}
   - {type: variant, offset: 38, length: 0, content: '', krp: 坦}
@@ -4369,4 +4373,4 @@ markers:
   - {type: page-break, offset: 7854, content: '', id: KR2a0024_WYG_050-27b, image: WYG0265/WYG0265-0723b.png}
   - {type: variant, offset: 7854, length: 0, content: '', krp: 南史卷五十南史卷五十考證劉瓛弟璡傳與友孔徹同舟入東與監本訛興今改正劉顯傳陸倕聞之擊席喜曰劉郎子可謂差人梁書聞之下無擊席二字郎字下無子字又喜作歎今各本俱同从之明僧紹傳隐長廣郡嶗山嶗一本作勞顧炎武日知錄本草天麻生太山嶗山諸山則字本作嶗若魏書地形志唐書姜撫傳宋史甄棲真傳作勞並傳寫之訛乃齊乘以為登之者勞又云一作牢邱長春又改為鰲皆鄙淺可笑今从監本勃海封延伯者髙行士也延監本誤追从閣本明山賓傳平仲古稱竒夷齊昔擅美齊梁書作吾誤庾易傳易謂使人曰走􅠢採麋鹿之伍終其解之毛衣終其解之毛衣一本作終嵗鮮毛之衣庾於陵傳遷尚書功論郎功論梁書作工部庾肩吾傳朱白既定雌黄有别白梁書作丹劉之遴傳必呼之遴小字曰僧伽福徳兒監本脱伽字今增正劉之亨傳故美出之以代之遴為安西湘東王繹長史上文云之亨美績嘉聲在朱异之右既不協懼為所害則美字當係异字之誤也今各本俱同姑仍之南史卷五十考證}
   back: []
-hash: sha256:d4091f07d7e12ae24ae143a03fa93629f9d6f018b3ab6411e706ee6e5e2cbcb1
+hash: sha256:5decc22e69048fc90457f7c7bf1d1347626c81eb87ae2faf792ee24323290396

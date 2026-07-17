@@ -17,6 +17,7 @@ markers:
   - {type: variant, offset: 12, length: 1, content: 弘, WYG: 𢎞}
   - {type: variant, offset: 12, length: 1, content: 弘, krp: 𢎞}
   - {type: punctuation, offset: 13, content: (, id: KR2a0024_ZHSJ_021-bkkpn1}
+  - {type: voice, offset: 13, length: 36, name: note, id: n1}
   - {type: indent, offset: 15, content: 　, id: KR2a0024_ZHSJ_021-bkkind1}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 子微𢎞弟}
   - {type: variant, offset: 15, length: 0, content: '', krp: 子微𢎞弟}
@@ -3711,6 +3712,7 @@ markers:
   - {type: punctuation, offset: 5970, content: ．, id: KR2a0024_ZHSJ_021-bkkpn1333}
   - {type: 'tls:seg', offset: 5970, content: '', id: KR2a0024_ZHSJ_021-d21p55s23}
   - {type: punctuation, offset: 5970, content: (, id: KR2a0024_ZHSJ_021-bkkpn1334}
+  - {type: voice, offset: 5970, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5971, content: ), id: KR2a0024_ZHSJ_021-bkkpn1335}
   - {type: xml-element, offset: 5971, content: '', id: KR2a0024_ZHSJ_021-bkkxmlele110}
   - {type: xml-element, offset: 5971, content: '', id: KR2a0024_ZHSJ_021-d21n1}
@@ -3721,4 +3723,4 @@ markers:
   - {type: page-break, offset: 5971, content: '', id: KR2a0024_WYG_021-20b, image: WYG0265/WYG0265-0345d.png}
   - {type: variant, offset: 5971, length: 0, content: '', krp: 南史卷二十一南史卷二十一考證列傳第十一王𢎞子錫錫弟僧達弟監本訛子今改正王錫傳錫箕踞大坐殆無推敬卒子僧亮嗣此子字承𢎞而言或因此不查宋書而遂以為錫子因稱僧達為孫幷疑僧達傳兄錫為訛誤矣王僧逹傳寄宣城左永之籍注以為子之籍監本作籍之今改从宋書王瞻傳為侍中吏部尚書性率亮居選部所舉多行其意居選部所舉多行其意句監本誤居選所舉其意多行今改从梁書南史卷二十一考證}
   back: []
-hash: sha256:8d985d8757ac8ad8aee1d8ec7d846d23b8e12db7317d7d7f4319f39332f4e7c6
+hash: sha256:43aae5690b9f3e46bf848706e26fccb4ed79cd59030f27db47e152e1e6d70d54

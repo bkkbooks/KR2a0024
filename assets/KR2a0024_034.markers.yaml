@@ -17,6 +17,7 @@ markers:
   - {type: variant, offset: 12, length: 1, content: 顏, WYG: 顔}
   - {type: variant, offset: 12, length: 1, content: 顏, krp: 顔}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_034-bkkpn1}
+  - {type: voice, offset: 15, length: 6, name: note, id: n1}
   - {type: indent, offset: 17, content: 　, id: KR2a0024_ZHSJ_034-bkkind1}
   - {type: variant, offset: 17, length: 0, content: '', WYG: 師伯}
   - {type: variant, offset: 17, length: 0, content: '', krp: 師伯}
@@ -25,6 +26,7 @@ markers:
   - {type: punctuation, offset: 21, content: ), id: KR2a0024_ZHSJ_034-bkkpn2}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_034-bkkind2}
   - {type: punctuation, offset: 24, content: (, id: KR2a0024_ZHSJ_034-bkkpn3}
+  - {type: voice, offset: 24, length: 6, name: note, id: n2}
   - {type: indent, offset: 26, content: 　, id: KR2a0024_ZHSJ_034-bkkind3}
   - {type: variant, offset: 26, length: 0, content: '', WYG: 曇慶}
   - {type: variant, offset: 26, length: 0, content: '', krp: 曇慶}
@@ -33,6 +35,7 @@ markers:
   - {type: punctuation, offset: 30, content: ), id: KR2a0024_ZHSJ_034-bkkpn4}
   - {type: indent, offset: 30, content: 　, id: KR2a0024_ZHSJ_034-bkkind4}
   - {type: punctuation, offset: 32, content: (, id: KR2a0024_ZHSJ_034-bkkpn5}
+  - {type: voice, offset: 32, length: 19, name: note, id: n3}
   - {type: punctuation, offset: 35, content: ), id: KR2a0024_ZHSJ_034-bkkpn6}
   - {type: line-break, offset: 35, content: '', id: ZHSJ__dup10708}
   - {type: punctuation, offset: 35, content: (, id: KR2a0024_ZHSJ_034-bkkpn7}
@@ -5907,4 +5910,4 @@ markers:
   - {type: page-break, offset: 10144, content: '', id: KR2a0024_WYG_034-32b, image: WYG0265/WYG0265-0528d.png}
   - {type: variant, offset: 10144, length: 0, content: '', krp: 南史卷三十四南史卷三十四考證顔竣傳嚴檢盜鑄並禁剪鑿禁下監本衍私字今从宋書竣上言禁糃一月息米近萬斛糃一本作糃顔師伯傳師伯子舉周旋寒人張竒為公車令寒監本誤塞今改正令史潘道栖諸道恵諸宋書作褚沈懷文傳元凶弑立以為中書侍郎孝武入討呼之使作符檄固辭呼之上應从宋書加上字上方注怒作色怒應从閣本改弩周捨傳雖廣夏華堂夏應改厦周𢎞正傳又請釋乾坤二繫坤監本作巛𢎞讓傳今乾坤易立句同南史卷三十四考證}
   back: []
-hash: sha256:30f4a1dda938784298b45e044e772142d2325905299345f9561bcf26c32a2bd0
+hash: sha256:e8345974aa1ef2d3da451db2d0154700fd04a07d2bfefb344c402989b34448c7

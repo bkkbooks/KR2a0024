@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延壽撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup7135}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_022-bkkpn1}
+  - {type: voice, offset: 14, length: 41, name: note, id: n1}
   - {type: indent, offset: 17, content: 　, id: KR2a0024_ZHSJ_022-bkkind1}
   - {type: variant, offset: 17, length: 5, content: 孫儉曾孫騫, WYG: ''}
   - {type: variant, offset: 17, length: 5, content: 孫儉曾孫騫, krp: ''}
@@ -5547,6 +5548,7 @@ markers:
   - {type: 'tls:seg', offset: 9289, content: '', id: KR2a0024_ZHSJ_022-d22p82s23}
   - {type: punctuation, offset: 9289, content: 「, id: KR2a0024_ZHSJ_022-bkkpn2116}
   - {type: punctuation, offset: 9291, content: (, id: KR2a0024_ZHSJ_022-bkkpn2117}
+  - {type: voice, offset: 9291, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 9294, content: ), id: KR2a0024_ZHSJ_022-bkkpn2118}
   - {type: punctuation, offset: 9296, content: 」, id: KR2a0024_ZHSJ_022-bkkpn2119}
   - {type: punctuation, offset: 9296, content: ，, id: KR2a0024_ZHSJ_022-bkkpn2120}
@@ -5556,6 +5558,7 @@ markers:
   - {type: 'tls:seg', offset: 9302, content: '', id: KR2a0024_ZHSJ_022-d22p82s25}
   - {type: punctuation, offset: 9302, content: 「, id: KR2a0024_ZHSJ_022-bkkpn2122}
   - {type: punctuation, offset: 9309, content: (, id: KR2a0024_ZHSJ_022-bkkpn2123}
+  - {type: voice, offset: 9309, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 9312, content: ), id: KR2a0024_ZHSJ_022-bkkpn2124}
   - {type: punctuation, offset: 9312, content: 」, id: KR2a0024_ZHSJ_022-bkkpn2125}
   - {type: punctuation, offset: 9312, content: ．, id: KR2a0024_ZHSJ_022-bkkpn2126}
@@ -6172,4 +6175,4 @@ markers:
   - {type: page-break, offset: 10365, content: '', id: KR2a0024_WYG_022-33b, image: WYG0265/WYG0265-0362b.png}
   - {type: variant, offset: 10365, length: 0, content: '', krp: 南史卷二十二南史卷二十二考證王僧綽傳陛下惟能裁弟不能裁兒兒監本訛兄今改正王儉傳年三十八三監本訛四今从閣本王慈傳衆僧今日可謂䖍䖍僧監本訛生今改从閣本南史卷二十二考證}
   back: []
-hash: sha256:757e8a8115ad82047f9447eab176516e0fdbaa911079a2a877f45de47974aa73
+hash: sha256:caac5c405c4fe0c25a0650680613f87d009d66f4e7323e6985468f1dcaa832be

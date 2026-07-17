@@ -24,9 +24,11 @@ markers:
   - {type: variant, offset: 26, length: 1, content: 黃, krp: 黄}
   - {type: indent, offset: 30, content: 　, id: KR2a0024_ZHSJ_065-bkkind3}
   - {type: punctuation, offset: 35, content: (, id: KR2a0024_ZHSJ_065-bkkpn1}
+  - {type: voice, offset: 35, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 38, content: ), id: KR2a0024_ZHSJ_065-bkkpn2}
   - {type: line-break, offset: 38, content: '', id: ZHSJ__dup19078}
   - {type: punctuation, offset: 44, content: (, id: KR2a0024_ZHSJ_065-bkkpn3}
+  - {type: voice, offset: 44, length: 5, name: note, id: n2}
   - {type: indent, offset: 47, content: 　, id: KR2a0024_ZHSJ_065-bkkind4}
   - {type: punctuation, offset: 49, content: ), id: KR2a0024_ZHSJ_065-bkkpn4}
   - {type: indent, offset: 49, content: 　, id: KR2a0024_ZHSJ_065-bkkind5}
@@ -4268,4 +4270,4 @@ markers:
   - {type: page-break, offset: 8251, content: '', id: KR2a0024_WYG_065-30b, image: WYG0265/WYG0265-0924b.png}
   - {type: variant, offset: 8251, length: 0, content: '', krp: 南史卷六十五南史卷六十五考證遂興侯詳傳少出家為沙門沙陳書作桑衡陽獻王昌傳並為東衡州刺史王勇所害監本脫王字今从陳書増入南康愍王曇朗傳武帝母弟忠壯王休先之子也先監本訛光今改从陳書子方泰傳上登𤣥武門親宴羣臣以觀之親監本訛觀今改正上曰不承則上測測陳書作刑始興王伯茂傳舊制諸王受封未加戎號者不置佐使使据陳書應作史今各本俱同仍之新安王伯固傳目通睛揚白睛陳書作精因趣白楊道臺馬容至為亂兵所殺尸於昌館門陳書容作客應改从之又昌館門上有東字晉安王伯恭傳年十餘嵗便留心政事官曹緝理官閣本作宫今从陳書以監本為是始興王叔陵傳命典藥吏礪切藥刀刀監本訛乃今改从閣本叔陵有部下兵先在新林林監本作安殆因新安王伯固而訛也上文云放東城囚以充戰士又遣人往新林追所部兵馬則為林字之誤無疑矣湘東王叔平傳大業中為胡蘇令胡應从陳書作湖㑹稽王莊傳隋大業中為昌隆令昌隆陳書作㑹昌吳郡王藩傳為任城令任陳書作涪南史卷六十五考證}
   back: []
-hash: sha256:fba9c88c920c7d8e9becfb6b29e1b4d672eb2ab942c9b4a2714304e0c2eb63a0
+hash: sha256:52ed36606c01348c30c9a39bee3fd1596722f67ffcef1684ae9847dc404b424c

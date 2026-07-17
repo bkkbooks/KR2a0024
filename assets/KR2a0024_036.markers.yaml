@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 15, length: 1, content: 玄, WYG: 𤣥}
   - {type: variant, offset: 15, length: 1, content: 玄, krp: 𤣥}
   - {type: punctuation, offset: 17, content: (, id: KR2a0024_ZHSJ_036-bkkpn1}
+  - {type: voice, offset: 17, length: 5, name: note, id: n1}
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_036-bkkind2}
   - {type: variant, offset: 19, length: 1, content: 兄, WYG: 希凡}
   - {type: variant, offset: 19, length: 1, content: 兄, krp: 希凡}
@@ -26,6 +27,7 @@ markers:
   - {type: punctuation, offset: 22, content: ), id: KR2a0024_ZHSJ_036-bkkpn2}
   - {type: indent, offset: 22, content: 　, id: KR2a0024_ZHSJ_036-bkkind3}
   - {type: punctuation, offset: 25, content: (, id: KR2a0024_ZHSJ_036-bkkpn3}
+  - {type: voice, offset: 25, length: 13, name: note, id: n2}
   - {type: indent, offset: 27, content: 　, id: KR2a0024_ZHSJ_036-bkkind4}
   - {type: variant, offset: 27, length: 1, content: 兄, WYG: 顗凡}
   - {type: variant, offset: 27, length: 1, content: 兄, krp: 顗凡}
@@ -38,6 +40,7 @@ markers:
   - {type: punctuation, offset: 38, content: ), id: KR2a0024_ZHSJ_036-bkkpn4}
   - {type: indent, offset: 38, content: 　, id: KR2a0024_ZHSJ_036-bkkind6}
   - {type: punctuation, offset: 40, content: (, id: KR2a0024_ZHSJ_036-bkkpn5}
+  - {type: voice, offset: 40, length: 22, name: note, id: n3}
   - {type: indent, offset: 42, content: 　, id: KR2a0024_ZHSJ_036-bkkind7}
   - {type: variant, offset: 42, length: 0, content: '', WYG: 斆}
   - {type: variant, offset: 42, length: 0, content: '', krp: 斆}
@@ -64,6 +67,7 @@ markers:
   - {type: punctuation, offset: 62, content: ), id: KR2a0024_ZHSJ_036-bkkpn6}
   - {type: indent, offset: 62, content: 　, id: KR2a0024_ZHSJ_036-bkkind12}
   - {type: punctuation, offset: 65, content: (, id: KR2a0024_ZHSJ_036-bkkpn7}
+  - {type: voice, offset: 65, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 67, content: ), id: KR2a0024_ZHSJ_036-bkkpn8}
   - {type: xml-element, offset: 67, content: '', id: KR2a0024_ZHSJ_036-bkkxmlele2}
   - {type: xml-element, offset: 67, content: '', id: KR2a0024_ZHSJ_036-bkkxmlele3}
@@ -4544,4 +4548,4 @@ markers:
   - {type: page-break, offset: 7488, content: '', id: KR2a0024_WYG_036-25b, image: WYG0265/WYG0265-0554b.png}
   - {type: variant, offset: 7488, length: 0, content: '', krp: 南史卷三十六南史卷三十六考證羊𤣥保傳祖楷楷監本作揩今从閣本江秉之傳元凶殺徐湛之子徽以黨與見誅上云秉之子徽則此子字疑衍南史卷三十六考證}
   back: []
-hash: sha256:e8b45873c54a2c5e8e99a71f445fa89dcdeb8fe5c398a65a1b2fa632be2d40ac
+hash: sha256:90f24d0ac90bc4e36137f06cf403b0ae2f1e2958552823345f61140ea9fba2c9

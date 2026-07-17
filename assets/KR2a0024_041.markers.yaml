@@ -25,6 +25,7 @@ markers:
   - {type: variant, offset: 35, length: 1, content: 遙, WYG: 遥}
   - {type: variant, offset: 35, length: 1, content: 遙, krp: 遥}
   - {type: punctuation, offset: 37, content: (, id: KR2a0024_ZHSJ_041-bkkpn1}
+  - {type: voice, offset: 37, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 39, content: ), id: KR2a0024_ZHSJ_041-bkkpn2}
   - {type: indent, offset: 39, content: 　, id: KR2a0024_ZHSJ_041-bkkind3}
   - {type: variant, offset: 43, length: 1, content: 緬, WYG: 􅃡}
@@ -33,6 +34,7 @@ markers:
   - {type: line-break, offset: 49, content: '', id: ZHSJ__dup12624}
   - {type: page-break, offset: 49, content: '', id: KR2a0024_WYG_041-1b, image: WYG0265/WYG0265-0601b.png}
   - {type: punctuation, offset: 54, content: (, id: KR2a0024_ZHSJ_041-bkkpn3}
+  - {type: voice, offset: 54, length: 5, name: note, id: n2}
   - {type: variant, offset: 55, length: 1, content: 穎, WYG: 頴}
   - {type: variant, offset: 55, length: 1, content: 穎, krp: 頴}
   - {type: variant, offset: 56, length: 1, content: 冑, WYG: 胄}
@@ -4400,4 +4402,4 @@ markers:
   - {type: page-break, offset: 7298, content: '', id: KR2a0024_WYG_041-25b, image: WYG0265/WYG0265-0613b.png}
   - {type: variant, offset: 7298, length: 0, content: '', krp: 南史卷四十一南史卷四十一考證始安王遥光傳太子右率左興盛屯東府門東籬門屯東府門東離門一本作屯府東籬門焚屋宇且盡屋字一本作居字曲江公遥欣子幾傳好學善草𨽻書草閣本作章南豐伯赤斧子穎胄傳梁武帝復遣天武齎書與穎胄遣監本誤追今改从梁書穎胄使别駕宗史撰定禮儀史應作夬雖梁書宗夬本傳未載此事而云故領軍將軍蕭穎胄深相委仗每事諮焉其為夬無疑也穎胄遣軍拒之而梁武已平江郢圍建康監本缺郢字今从閣本增入衡陽公諶傳諶每請急出宿帝通夕不能寐出宿監本訛宿出今据齊書改正臨汝侯坦之傳少帝以坦之文恵舊人親信不離得入内見皇后離各本誤難今改从齊書建武元年遷左衛將軍建監本訛孝今從閣本坦之科頭著褌踰墻走褌監本誤禪今從齊書羣小畏而惜之惜一本作憎應从之南史卷四十一考證}
   back: []
-hash: sha256:45c86ecf572a386e726058991980082c8720cfbbb4c70d3d03654e7e5a5df675
+hash: sha256:4a5b32622466c1e6976b1f0b6d7450a4aef9f1ed6241fc1fa985c060d5e98d24

@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup9303}
   - {type: punctuation, offset: 13, content: (, id: KR2a0024_ZHSJ_029-bkkpn1}
+  - {type: voice, offset: 13, length: 11, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_029-bkkind1}
   - {type: variant, offset: 16, length: 0, content: '', WYG: 撙孫凝}
   - {type: variant, offset: 16, length: 0, content: '', krp: 撙孫凝}
@@ -3569,4 +3570,4 @@ markers:
   - {type: page-break, offset: 5894, content: '', id: KR2a0024_WYG_029-20b, image: WYG0265/WYG0265-0456b.png}
   - {type: variant, offset: 5894, length: 0, content: '', krp: 南史卷二十九南史卷二十九考證蔡興宗傳蔡尚書今日可謂能荷矣宋書荷字上有負字使選令史顔褘之薛慶先等往復論執一本無史字誤蔡凝傳若格以僉議黄散之職故湏人門兼美僉一本作檢南史卷二十九考證}
   back: []
-hash: sha256:5e46f6899cc72889cbc7b2cb24aabd1050b2c6b8a74680d87b4687d8286d24eb
+hash: sha256:c19c3f86a3cabdf66f7e0faa26ed47be148f466972efd105e552416d04f42b01

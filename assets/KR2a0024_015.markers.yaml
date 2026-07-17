@@ -17,6 +17,7 @@ markers:
   - {type: punctuation, offset: 12, content: (, id: KR2a0024_ZHSJ_015-bkkpn1}
   - {type: variant, offset: 12, length: 1, content: 曾, WYG: 曽}
   - {type: variant, offset: 12, length: 1, content: 曾, krp: 曽}
+  - {type: voice, offset: 12, length: 7, name: note, id: n1}
   - {type: indent, offset: 15, content: 　, id: KR2a0024_ZHSJ_015-bkkind1}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 之}
   - {type: variant, offset: 15, length: 0, content: '', krp: 之}
@@ -28,6 +29,7 @@ markers:
   - {type: variant, offset: 20, length: 1, content: 羨, krp: 羡}
   - {type: substitution, offset: 20, original: 羨, replacement: 羡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20809}}
   - {type: punctuation, offset: 22, content: (, id: KR2a0024_ZHSJ_015-bkkpn3}
+  - {type: voice, offset: 22, length: 14, name: note, id: n2}
   - {type: indent, offset: 26, content: 　, id: KR2a0024_ZHSJ_015-bkkind3}
   - {type: variant, offset: 26, length: 0, content: '', WYG: 嗣}
   - {type: variant, offset: 26, length: 0, content: '', krp: 嗣}
@@ -37,9 +39,11 @@ markers:
   - {type: punctuation, offset: 36, content: ), id: KR2a0024_ZHSJ_015-bkkpn4}
   - {type: line-break, offset: 36, content: '', id: ZHSJ__dup5118}
   - {type: punctuation, offset: 38, content: (, id: KR2a0024_ZHSJ_015-bkkpn5}
+  - {type: voice, offset: 38, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 41, content: ), id: KR2a0024_ZHSJ_015-bkkpn6}
   - {type: indent, offset: 41, content: 　, id: KR2a0024_ZHSJ_015-bkkind5}
   - {type: punctuation, offset: 44, content: (, id: KR2a0024_ZHSJ_015-bkkpn7}
+  - {type: voice, offset: 44, length: 8, name: note, id: n4}
   - {type: indent, offset: 46, content: 　, id: KR2a0024_ZHSJ_015-bkkind6}
   - {type: substitution, offset: 48, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: indent, offset: 49, content: 　, id: KR2a0024_ZHSJ_015-bkkind7}
@@ -6345,4 +6349,4 @@ markers:
   - {type: page-break, offset: 10643, content: '', id: KR2a0024_WYG_015-34b, image: WYG0265/WYG0265-0267d.png}
   - {type: variant, offset: 10643, length: 0, content: '', krp: 南史卷十五南史卷十五考證劉穆之傳力敵勢均終相吞咀咀監本訛阻今改正遷中軍䕶軍司馬䕶軍一本作太尉徐湛之傳與劉湛等頗相附及得罪事連湛之劉湛下監本衍之字今刪少自披訴乞蒙隨放隨宋書作隳緄子君蒨傳㓜聰朗好學尤長丁部書問無不對丁監本訛于今改正檀道濟傳夜道濟入領軍府就謝晦晦悚息不得眠謝晦下宋書有宿字韶傳以桓𤣥功封邑邱縣侯以字下應有平字邑應从宋書作巴以功更封宜陽縣後拜江州刺史宋書縣字下有侯字南史卷十五考證}
   back: []
-hash: sha256:9c8f30aa54f0380b49de81e69d154ed6f92dbccbdfa6b324ea680dad44f995c0
+hash: sha256:fe4e826c0e66074b52586019a84d515651673a96576b8a1c9f6a2b6c0b2dc5ce

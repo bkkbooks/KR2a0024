@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup14379}
   - {type: indent, offset: 14, content: 　, id: KR2a0024_ZHSJ_048-bkkind1}
   - {type: punctuation, offset: 17, content: (, id: KR2a0024_ZHSJ_048-bkkpn1}
+  - {type: voice, offset: 17, length: 44, name: note, id: n1}
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_048-bkkind2}
   - {type: variant, offset: 19, length: 0, content: '', WYG: 絳閑子}
   - {type: variant, offset: 19, length: 0, content: '', krp: 絳閑子}
@@ -49,6 +50,7 @@ markers:
   - {type: punctuation, offset: 61, content: ), id: KR2a0024_ZHSJ_048-bkkpn4}
   - {type: line-break, offset: 61, content: '', id: ZHSJ__dup14381}
   - {type: punctuation, offset: 63, content: (, id: KR2a0024_ZHSJ_048-bkkpn5}
+  - {type: voice, offset: 63, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 65, content: ), id: KR2a0024_ZHSJ_048-bkkpn6}
   - {type: xml-element, offset: 65, content: '', id: KR2a0024_ZHSJ_048-bkkxmlele2}
   - {type: xml-element, offset: 65, content: '', id: KR2a0024_ZHSJ_048-bkkxmlele3}
@@ -3998,4 +4000,4 @@ markers:
   - {type: page-break, offset: 7085, content: '', id: KR2a0024_WYG_048-23b, image: WYG0265/WYG0265-0693d.png}
   - {type: variant, offset: 7085, length: 0, content: '', krp: 南史卷四十八南史卷四十八考證陸慧曉傳父子真仕宋為海陵太守海陵梁書作東陽陸襄傳出為揚州中從事以父終此官固辭中從事梁書作治中本卷襄父閑傳仕至揚州别駕先是郡人鮮于琮服食修道法琮梁書作琛鮮于抄後善惡分人無横死賴陸君抄梁書作平又賴字下衍有字陸雲公傳時天泉池新製鯿魚舟形狭而短狭梁書作闊南史卷四十八考證}
   back: []
-hash: sha256:a39c200cc7c26ff41bc054dcaf43570d91df626056cfd7d39c066d1481ec3489
+hash: sha256:98a10850ab17801c17c6762a3fb558db61e37c3330a22c4287ab7cb080ee9bdd

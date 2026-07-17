@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup8486}
   - {type: punctuation, offset: 13, content: (, id: KR2a0024_ZHSJ_026-bkkpn1}
+  - {type: voice, offset: 13, length: 38, name: note, id: n1}
   - {type: indent, offset: 15, content: 　, id: KR2a0024_ZHSJ_026-bkkind1}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 弟粲顗從}
   - {type: variant, offset: 15, length: 0, content: '', krp: 弟粲顗從}
@@ -6204,4 +6205,4 @@ markers:
   - {type: page-break, offset: 10562, content: '', id: KR2a0024_WYG_026-35b, image: WYG0265/WYG0265-0425b.png}
   - {type: variant, offset: 10562, length: 0, content: '', krp: 南史卷二十六南史卷二十六考證袁顗傳以為不勞攻伐行自離散於是擁甲以待之待監本誤得今从宋書今追蹤竇融猶未晚也猶監本訛獨今从宋書及閣本袁粲傳袁濯兒不逢朕員外郎未可得也濯監本訛灌今从上文改正袁昻傳且范岫申胄久薦誠欵申監夲訛甲今从梁書當其時也負鼎圖者日至執玉帛者相望各本俱脱當字今从梁書以監本為是袁昻子君正傳性不信巫邪有師萬世榮稱道術為一郡巫長師萬一本作萬師袁樞傳永嗣公主先適陳留太守錢蕆蕆各本俱誤藏今考陳書从監本袁憲傳憲以久居清顯累表自求觧監本脱求字今从閣本増袁敬傳諡靖徳靖一本訛曰今从陳書南史卷二十六考證}
   back: []
-hash: sha256:a8c7ccc15207edd75f1797e04c9a7b0c6e3cc32f8643be03c10a9cc480e28e01
+hash: sha256:efd174482c2ecd11cbb433cb90fbf8b0d1ef7afe9f6fc1f709ea90c86e197ed3

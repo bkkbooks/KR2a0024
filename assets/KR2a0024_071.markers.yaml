@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup20922}
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup20923}
   - {type: punctuation, offset: 17, content: (, id: KR2a0024_ZHSJ_071-bkkpn1}
+  - {type: voice, offset: 17, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ●, id: KR2a0024_ZHSJ_071-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_071-bkkind1}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_071-bkkind2}
@@ -33,6 +34,7 @@ markers:
   - {type: indent, offset: 38, content: 　, id: KR2a0024_ZHSJ_071-bkkind9}
   - {type: page-break, offset: 38, content: '', id: KR2a0024_WYG_071-1b, image: WYG0265/WYG0265-0996d.png}
   - {type: punctuation, offset: 40, content: (, id: KR2a0024_ZHSJ_071-bkkpn5}
+  - {type: voice, offset: 40, length: 8, name: note, id: n2}
   - {type: indent, offset: 44, content: 　, id: KR2a0024_ZHSJ_071-bkkind10}
   - {type: punctuation, offset: 48, content: ), id: KR2a0024_ZHSJ_071-bkkpn6}
   - {type: indent, offset: 48, content: 　, id: KR2a0024_ZHSJ_071-bkkind11}
@@ -41,6 +43,7 @@ markers:
   - {type: line-break, offset: 55, content: '', id: ZHSJ__dup20925}
   - {type: indent, offset: 57, content: 　, id: KR2a0024_ZHSJ_071-bkkind14}
   - {type: punctuation, offset: 59, content: (, id: KR2a0024_ZHSJ_071-bkkpn7}
+  - {type: voice, offset: 59, length: 10, name: note, id: n3}
   - {type: indent, offset: 61, content: 　, id: KR2a0024_ZHSJ_071-bkkind15}
   - {type: variant, offset: 61, length: 0, content: '', WYG: 基}
   - {type: variant, offset: 61, length: 0, content: '', krp: 基}
@@ -57,10 +60,12 @@ markers:
   - {type: indent, offset: 71, content: 　, id: KR2a0024_ZHSJ_071-bkkind19}
   - {type: line-break, offset: 73, content: '', id: ZHSJ__dup20926}
   - {type: punctuation, offset: 75, content: (, id: KR2a0024_ZHSJ_071-bkkpn9}
+  - {type: voice, offset: 75, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 78, content: ), id: KR2a0024_ZHSJ_071-bkkpn10}
   - {type: indent, offset: 78, content: 　, id: KR2a0024_ZHSJ_071-bkkind20}
   - {type: indent, offset: 81, content: 　, id: KR2a0024_ZHSJ_071-bkkind21}
   - {type: punctuation, offset: 84, content: (, id: KR2a0024_ZHSJ_071-bkkpn11}
+  - {type: voice, offset: 84, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 86, content: ), id: KR2a0024_ZHSJ_071-bkkpn12}
   - {type: xml-element, offset: 86, content: '', id: KR2a0024_ZHSJ_071-bkkxmlele2}
   - {type: xml-element, offset: 86, content: '', id: KR2a0024_ZHSJ_071-bkkxmlele3}
@@ -6212,4 +6217,4 @@ markers:
   - {type: page-break, offset: 10558, content: '', id: KR2a0024_WYG_071-34b, image: WYG0265/WYG0265-1013b.png}
   - {type: variant, offset: 10558, length: 0, content: '', krp: 南史卷七十一南史卷七十一考證伏曼容傳曼容多伎術伎監本訛俊今改从閣本何佟之傳都下稱其髙儒髙一本作醇沈洙傳所以重械之下危墯之上無人不服誣枉者多一本墯作墮上作士顧越傳詩頌碑誌牋表凡二百餘篇監本缺牋字今増从南本南史卷七十一考證}
   back: []
-hash: sha256:f70a3b5cbaec3c6714ba1867c5e7cdad435f5be7e8cf72efa5b156e75740ef7e
+hash: sha256:0af0e3773ebe7d04ac35b28990a7e2ec1e8902024f3194bb29e1a4387c524a5e

@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup17268}
   - {type: substitution, offset: 13, original: 叡, replacement: 睿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18643}}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_058-bkkpn1}
+  - {type: voice, offset: 14, length: 21, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_058-bkkind1}
   - {type: variant, offset: 16, length: 1, content: 闡, WYG: 載閛鼎}
   - {type: variant, offset: 16, length: 1, content: 闡, krp: 載閛鼎}
@@ -38,6 +39,7 @@ markers:
   - {type: punctuation, offset: 35, content: ), id: KR2a0024_ZHSJ_058-bkkpn2}
   - {type: line-break, offset: 35, content: '', id: ZHSJ__dup17269}
   - {type: punctuation, offset: 37, content: (, id: KR2a0024_ZHSJ_058-bkkpn3}
+  - {type: voice, offset: 37, length: 20, name: note, id: n2}
   - {type: indent, offset: 41, content: 　, id: KR2a0024_ZHSJ_058-bkkind9}
   - {type: variant, offset: 41, length: 0, content: '', WYG: 髙}
   - {type: variant, offset: 41, length: 0, content: '', krp: 髙}
@@ -4387,4 +4389,4 @@ markers:
   - {type: page-break, offset: 7284, content: '', id: KR2a0024_WYG_058-23b, image: WYG0265/WYG0265-0834b.png}
   - {type: variant, offset: 7284, length: 0, content: '', krp: 南史卷五十八}
   back: []
-hash: sha256:276598ebcea59c5402f789980e8bab4a1217e5ca6f3de7508e70647b291d709c
+hash: sha256:b6f2aed5ff2b96fe41072e2629eeca3564479e3054d7884415bfb278ebb23234

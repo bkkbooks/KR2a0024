@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 16, content: '', id: ZHSJ__dup4259}
   - {type: indent, offset: 22, content: 　, id: KR2a0024_ZHSJ_013-bkkind1}
   - {type: punctuation, offset: 29, content: (, id: KR2a0024_ZHSJ_013-bkkpn1}
+  - {type: voice, offset: 29, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 31, content: ), id: KR2a0024_ZHSJ_013-bkkpn2}
   - {type: indent, offset: 31, content: 　, id: KR2a0024_ZHSJ_013-bkkind2}
   - {type: line-break, offset: 36, content: '', id: ZHSJ__dup4260}
@@ -6579,4 +6580,4 @@ markers:
   - {type: page-break, offset: 11600, content: '', id: KR2a0024_WYG_013-38b, image: WYG0265/WYG0265-0228b.png}
   - {type: variant, offset: 11600, length: 0, content: '', krp: 南史卷十三南史卷十三考證長沙景王道憐傳融位五兵尚書領軍有質幹善於用短善於用短南本作善用短楯凡自諱名有同主諱主南本作至位湘州刺史諡僖侯僖監本訛僐今从閣本臨川烈武王道規傳左執法嘗有變王光禄至今平安王監本誤五今改从宋書營浦侯遵考傳州人猶以義故故善待之善待一本作喜得宋武帝七男傳一本衡陽文王義季下有義宣别有傳五字本卷南郡王義宣傳平列於後彼殆因宋書而衍者今从監本廬陵孝獻王義真傳脩字叔京兆覇城人宋書脩字叔治殆唐人避諱而刪之也使左右剔母舫函道施已船而取其勝者母一本作每今从梁書作母謂其母孫修儀也景平二年羡之等遣吏殺義真於徙所吏一本作使彭城王義康傳上嘗冬月噉甘歎其形味並劣甘一本作柑江夏文獻王義恭傳二十九年冬還朝上以御所乘蒼蠻船上迎之蠻宋書作鷹南郡王義宣傳生而舌短澁於言論監本無短字今从宋書及閣本増入南史卷十三考證}
   back: []
-hash: sha256:37c939cc4e3ee47e68b68a61ba55bf08af04dadfbd06ca4311beb34ba3a1d89c
+hash: sha256:1a019512f31baca34378772890f938cc137815099f7ce8f216f96d7713dc08db

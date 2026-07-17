@@ -18,10 +18,12 @@ markers:
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_064-bkkind2}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_064-bkkind3}
   - {type: punctuation, offset: 24, content: (, id: KR2a0024_ZHSJ_064-bkkpn1}
+  - {type: voice, offset: 24, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 26, content: ), id: KR2a0024_ZHSJ_064-bkkpn2}
   - {type: line-break, offset: 26, content: '', id: ZHSJ__dup18840}
   - {type: indent, offset: 28, content: 　, id: KR2a0024_ZHSJ_064-bkkind4}
   - {type: punctuation, offset: 28, content: (, id: KR2a0024_ZHSJ_064-bkkpn3}
+  - {type: voice, offset: 28, length: 8, name: note, id: n2}
   - {type: indent, offset: 30, content: 　, id: KR2a0024_ZHSJ_064-bkkind5}
   - {type: indent, offset: 33, content: 　, id: KR2a0024_ZHSJ_064-bkkind6}
   - {type: punctuation, offset: 36, content: ), id: KR2a0024_ZHSJ_064-bkkpn4}
@@ -3931,4 +3933,4 @@ markers:
   - {type: page-break, offset: 6791, content: '', id: KR2a0024_WYG_064-22b, image: WYG0265/WYG0265-0908d.png}
   - {type: variant, offset: 6791, length: 0, content: '', krp: 南史卷六十四南史卷六十四考證江子一傳字元亮亮梁書作貞帝怒亦歇歇一夲作止胡僧祐傳以大通三年避尒朱氏之難歸梁梁書作以大通二年歸國徐文盛傳文盛深徳景遂私通信使都無戰心私閣夲作密門外不見卿馬跡使我何䖏得降䖏梁書作遽杜崱傳太清三年三梁書作二王琳傳有龍出於門外之地地一夲作池張彪傳彪後至泰等反與岐迎陳文帝入城迎監夲誤後今改从陳書南史卷六十四考證}
   back: []
-hash: sha256:d9c96db00296d225078d3a29ee4ba69a543fd5e1634151966f07b10bccd11183
+hash: sha256:fc07cbcb29b92d86dbc443693384e695c0200731a71da0c34782e4de88a4efb6

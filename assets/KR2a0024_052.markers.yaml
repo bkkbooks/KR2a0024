@@ -16,10 +16,12 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup15585}
   - {type: line-break, offset: 16, content: '', id: ZHSJ__dup15586}
   - {type: punctuation, offset: 21, content: (, id: KR2a0024_ZHSJ_052-bkkpn1}
+  - {type: voice, offset: 21, length: 5, name: note, id: n1}
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_052-bkkind1}
   - {type: punctuation, offset: 26, content: ), id: KR2a0024_ZHSJ_052-bkkpn2}
   - {type: indent, offset: 26, content: 　, id: KR2a0024_ZHSJ_052-bkkind2}
   - {type: punctuation, offset: 32, content: (, id: KR2a0024_ZHSJ_052-bkkpn3}
+  - {type: voice, offset: 32, length: 11, name: note, id: n2}
   - {type: indent, offset: 34, content: 　, id: KR2a0024_ZHSJ_052-bkkind3}
   - {type: variant, offset: 34, length: 0, content: '', WYG: 祗恭弟}
   - {type: variant, offset: 34, length: 0, content: '', krp: 祗恭弟}
@@ -30,6 +32,7 @@ markers:
   - {type: punctuation, offset: 43, content: ), id: KR2a0024_ZHSJ_052-bkkpn4}
   - {type: indent, offset: 43, content: 　, id: KR2a0024_ZHSJ_052-bkkind5}
   - {type: punctuation, offset: 49, content: (, id: KR2a0024_ZHSJ_052-bkkpn5}
+  - {type: voice, offset: 49, length: 14, name: note, id: n3}
   - {type: indent, offset: 51, content: 　, id: KR2a0024_ZHSJ_052-bkkind6}
   - {type: variant, offset: 51, length: 0, content: '', WYG: 修諮弟}
   - {type: variant, offset: 51, length: 0, content: '', krp: 修諮弟}
@@ -48,6 +51,7 @@ markers:
   - {type: line-break, offset: 63, content: '', id: ZHSJ__dup15588}
   - {type: page-break, offset: 63, content: '', id: KR2a0024_WYG_052-1b, image: WYG0265/WYG0265-0740b.png}
   - {type: punctuation, offset: 69, content: (, id: KR2a0024_ZHSJ_052-bkkpn7}
+  - {type: voice, offset: 69, length: 8, name: note, id: n4}
   - {type: indent, offset: 71, content: 　, id: KR2a0024_ZHSJ_052-bkkind10}
   - {type: substitution, offset: 73, original: 暎, replacement: 映, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16911}}
   - {type: indent, offset: 74, content: 　, id: KR2a0024_ZHSJ_052-bkkind11}
@@ -3430,6 +3434,7 @@ markers:
   - {type: punctuation, offset: 5992, content: (, id: KR2a0024_ZHSJ_052-bkkpn1248}
   - {type: variant, offset: 5992, length: 1, content: 徒, WYG: 徙}
   - {type: variant, offset: 5992, length: 1, content: 徒, krp: 徙}
+  - {type: voice, offset: 5992, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 5995, content: ), id: KR2a0024_ZHSJ_052-bkkpn1249}
   - {type: punctuation, offset: 5998, content: ，, id: KR2a0024_ZHSJ_052-bkkpn1250}
   - {type: 'tls:seg', offset: 5998, content: '', id: KR2a0024_ZHSJ_052-d52p46s13}
@@ -4170,4 +4175,4 @@ markers:
   - {type: page-break, offset: 7158, content: '', id: KR2a0024_WYG_052-25b, image: WYG0265/WYG0265-0752b.png}
   - {type: variant, offset: 7158, length: 0, content: '', krp: 南史卷五十二南史卷五十二考證南平元襄王偉傳倍先置防閣白直左右職局一百人倍監本誤陪今改從梁書平原王曼頴卒家貧無以殯平原梁書作太原子恭傳下官歴觀時人多有不好懽興興一本作樂恭乃多取官米還贍私宅私梁書作𢎞誤鄱陽忠烈王恢傳文帝第十子也十梁書作九盖文帝十男恢居其末此總計髙祖兄弟而稱為第十子耳中山聴樂可得任悦悦梁書作説子範傳乃泝流西上軍於嶷陽嶷梁書作摐大心要還九江欲共兵西上梁書共字下有治字範将侯瑱襲荘鐵於豫章瑱監本訛填今从陳書改始興忠武王憺傳人歌曰始興王人之爹徙我反徙梁書作徒史臣論盤石犬牙寄深梁楚梁書犬牙作凝脂寄深作樹斯南史卷五十二考證}
   back: []
-hash: sha256:ccc9e1920edcc90f5c463573b72ceb2ae9ff4425d16bf0a829d7a14c53fcaf71
+hash: sha256:418955fe3b563046f2f578014ed96a00ad6c82050123b0293915a81f51c22314

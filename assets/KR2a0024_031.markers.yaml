@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup9786}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_031-bkkpn1}
+  - {type: voice, offset: 14, length: 30, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_031-bkkind1}
   - {type: variant, offset: 16, length: 0, content: '', WYG: 瓌}
   - {type: variant, offset: 16, length: 0, content: '', krp: 瓌}
@@ -4450,4 +4451,4 @@ markers:
   - {type: page-break, offset: 7233, content: '', id: KR2a0024_WYG_031-24b, image: WYG0265/WYG0265-0482b.png}
   - {type: variant, offset: 7233, length: 0, content: '', krp: 南史卷三十一南史卷三十一考證張岱傳随復改易如此十數年復監本訛後今改从齊書張充傳充生平少偶不以利欲干懐三十六年差得以棲貧自澹少字下一本有長字盖以生平少長為句而偶字連下與下差字對也張嵊傳嵊曰死為幸乃殺之一本死字上有速字張種傳其為時所推如此一本無時字誤種弟稜亦清静有識度監本脱種弟二字今増正史臣論取信一主義絶百心絶監本訛終今从閣本南史卷三十一考證}
   back: []
-hash: sha256:1ed3e403af2535c6c23a34caaa162cc0244a54c1119de499a52b46f4ea500427
+hash: sha256:c4aca3c260115b77a3db2cd9ac0413dc679d4c61302c71eec0b65e1071787c3f

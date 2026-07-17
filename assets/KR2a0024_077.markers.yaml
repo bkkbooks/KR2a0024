@@ -17,6 +17,7 @@ markers:
   - {type: substitution, offset: 13, original: 倖, replacement: 幸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16650}}
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup22968}
   - {type: punctuation, offset: 17, content: (, id: KR2a0024_ZHSJ_077-bkkpn1}
+  - {type: voice, offset: 17, length: 3, name: note, id: n1}
   - {type: variant, offset: 19, length: 1, content: 寶, WYG: 寳}
   - {type: variant, offset: 19, length: 1, content: 寶, krp: 寳}
   - {type: punctuation, offset: 20, content: ), id: KR2a0024_ZHSJ_077-bkkpn2}
@@ -30,10 +31,12 @@ markers:
   - {type: variant, offset: 34, length: 1, content: 呂, krp: 吕}
   - {type: indent, offset: 37, content: 　, id: KR2a0024_ZHSJ_077-bkkind6}
   - {type: punctuation, offset: 40, content: (, id: KR2a0024_ZHSJ_077-bkkpn3}
+  - {type: voice, offset: 40, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 43, content: ), id: KR2a0024_ZHSJ_077-bkkpn4}
   - {type: indent, offset: 43, content: 　, id: KR2a0024_ZHSJ_077-bkkind7}
   - {type: indent, offset: 46, content: 　, id: KR2a0024_ZHSJ_077-bkkind8}
   - {type: punctuation, offset: 48, content: (, id: KR2a0024_ZHSJ_077-bkkpn5}
+  - {type: voice, offset: 48, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 50, content: ), id: KR2a0024_ZHSJ_077-bkkpn6}
   - {type: indent, offset: 50, content: 　, id: KR2a0024_ZHSJ_077-bkkind9}
   - {type: page-break, offset: 50, content: '', id: KR2a0024_WYG_077-1b, image: WYG0265/WYG0265-1090b.png}
@@ -7144,4 +7147,4 @@ markers:
   - {type: page-break, offset: 12560, content: '', id: KR2a0024_WYG_077-40b, image: WYG0265/WYG0265-1110b.png}
   - {type: variant, offset: 12560, length: 0, content: '', krp: 堂堂一本作常常茹法亮傳珍之迎母至湖熟輙將青氅百人自隨氅一本作氅茹法珍傳帝呼寳慶及法珍為阿丈蟲兒及東冶營兵俞靈韻為阿兄冶各本俱訛治今从齊書劉休傳改孔範傳曾祖景偉齊散騎常侍監本缺曾字今增入南史卷七十七考證}
   back: []
-hash: sha256:ce091980850d02ac3b42bd1487d0a4b46779e34e3a1c48a0efc8fdabe24f5cea
+hash: sha256:1cdbf3e82c23789ca37485b56b6baef9ac680bfa9596b824fc64418226f3e82d

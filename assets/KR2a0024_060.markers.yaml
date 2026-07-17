@@ -16,19 +16,23 @@ markers:
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup17768}
   - {type: indent, offset: 12, content: 　, id: KR2a0024_ZHSJ_060-bkkind1}
   - {type: punctuation, offset: 14, content: (, id: KR2a0024_ZHSJ_060-bkkpn1}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0024_ZHSJ_060-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_060-bkkind2}
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_060-bkkind3}
   - {type: punctuation, offset: 21, content: (, id: KR2a0024_ZHSJ_060-bkkpn3}
+  - {type: voice, offset: 21, length: 3, name: note, id: n2}
   - {type: variant, offset: 22, length: 1, content: 德, WYG: 徳}
   - {type: variant, offset: 22, length: 1, content: 德, krp: 徳}
   - {type: punctuation, offset: 24, content: ), id: KR2a0024_ZHSJ_060-bkkpn4}
   - {type: indent, offset: 24, content: 　, id: KR2a0024_ZHSJ_060-bkkind4}
   - {type: line-break, offset: 26, content: '', id: ZHSJ__dup17769}
   - {type: punctuation, offset: 28, content: (, id: KR2a0024_ZHSJ_060-bkkpn5}
+  - {type: voice, offset: 28, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 30, content: ), id: KR2a0024_ZHSJ_060-bkkpn6}
   - {type: indent, offset: 30, content: 　, id: KR2a0024_ZHSJ_060-bkkind5}
   - {type: punctuation, offset: 32, content: (, id: KR2a0024_ZHSJ_060-bkkpn7}
+  - {type: voice, offset: 32, length: 3, name: note, id: n4}
   - {type: substitution, offset: 34, original: 芸, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20652}}
   - {type: punctuation, offset: 35, content: ), id: KR2a0024_ZHSJ_060-bkkpn8}
   - {type: xml-element, offset: 35, content: '', id: KR2a0024_ZHSJ_060-bkkxmlele2}
@@ -5205,4 +5209,4 @@ markers:
   - {type: page-break, offset: 9458, content: '', id: KR2a0024_WYG_060-30b, image: WYG0265/WYG0265-0860d.png}
   - {type: variant, offset: 9458, length: 0, content: '', krp: 南史卷六十南史卷六十考證傅昭傳父淡善三禮知名宋世事宋竟陵王誕事監本作仕今从閣本郡有蜜巖監本脱蜜字今从閣本増入縣令常餉栗置絹於簿下栗一本作粟孔休源傳時周捨撰禮疑義監本缺義字又下文休源所有奏議咸預編録句缺録字今俱増入江革傳㑹魏帝請中山王元畧反北請監本誤討今从魏書改正武陵王出鎮江州乃曰我得江革又得革清貧豈能一日忘之又一本作文許亨傳凡七柩皆改窆焉柩監本誤樞今改正南史卷六十考證}
   back: []
-hash: sha256:090f36518e4e5643f3cff0f71414dbf6abe374a8213f5fedc573f576c687bff5
+hash: sha256:691ce7e680e8bdd007dea6e8c3308619d81c40550aa213f8b13777f5476b5a39

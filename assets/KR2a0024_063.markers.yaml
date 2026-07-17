@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延壽撰}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup18621}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_063-bkkpn1}
+  - {type: voice, offset: 15, length: 3, name: note, id: n1}
   - {type: substitution, offset: 17, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 18, content: ), id: KR2a0024_ZHSJ_063-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_063-bkkind1}
@@ -3303,4 +3304,4 @@ markers:
   - {type: page-break, offset: 6370, content: '', id: KR2a0024_WYG_063-21b, image: WYG0265/WYG0265-0897b.png}
   - {type: variant, offset: 6370, length: 0, content: '', krp: 南史卷六十三南史卷六十三考證王僧辯傳既至盆口與僧辯㑹於白茅洲為盟陳書盆作湓洲作灣自石頭至于東城監本缺于字今从閣本増入南史卷六十三考證}
   back: []
-hash: sha256:a1524833d4c90515c817a5b139946235dfa0054a4739d25fab49060c0d1b7206
+hash: sha256:3891158cc87712ac6331f3da76c6fe665ae0a4c38db8ae7944d100b044bae442

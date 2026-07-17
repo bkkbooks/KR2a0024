@@ -23,11 +23,13 @@ markers:
   - {type: indent, offset: 43, content: 　, id: KR2a0024_ZHSJ_011-bkkind5}
   - {type: page-break, offset: 43, content: '', id: KR2a0024_WYG_011-1b, image: WYG0265/WYG0265-0189b.png}
   - {type: punctuation, offset: 48, content: (, id: KR2a0024_ZHSJ_011-bkkpn1}
+  - {type: voice, offset: 48, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 51, content: ), id: KR2a0024_ZHSJ_011-bkkpn2}
   - {type: line-break, offset: 51, content: '', id: ZHSJ__dup3866}
   - {type: indent, offset: 57, content: 　, id: KR2a0024_ZHSJ_011-bkkind6}
   - {type: indent, offset: 62, content: 　, id: KR2a0024_ZHSJ_011-bkkind7}
   - {type: punctuation, offset: 69, content: (, id: KR2a0024_ZHSJ_011-bkkpn3}
+  - {type: voice, offset: 69, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 72, content: ), id: KR2a0024_ZHSJ_011-bkkpn4}
   - {type: line-break, offset: 72, content: '', id: ZHSJ__dup3867}
   - {type: indent, offset: 78, content: 　, id: KR2a0024_ZHSJ_011-bkkind8}
@@ -3359,4 +3361,4 @@ markers:
   - {type: page-break, offset: 6382, content: '', id: KR2a0024_WYG_011-23b, image: WYG0265/WYG0265-0200b.png}
   - {type: variant, offset: 6382, length: 0, content: '', krp: 南史卷十一南史卷十一考證后妃傳敘淑妃舊擬九棘以淑為温㳟之稱棘各本訛􅀢查字書􅀈同棘亦从朿不从來今改正宋孝穆趙皇后傳葬晉陵丹徒縣東鄉練璧里雩山練一本作綀璧一本作壁武敬臧皇后傳封永陵平鄉君監本訛作遷陵永平鄉君今从宋書改正文元袁皇后元監本訛帝今从目錄改正前廢帝何皇后傳瑀尚武帝少女豫康公主諱次男凡公主之名皆不書諱獨本傳此處與下文邁尚文帝第十女新蔡公主諱英媚各衍一諱字齊宣孝陳皇后傳並蜜印畫青綬祠以太牢南本蜜作密畫作書武穆裴皇后傳上數游幸諸苑囿載宫人後從車宫内深隐不聞端門鼓漏聲一本後作從宫内作置内海陵王王妃傳諱韶韶閣本作昭南史卷十一考證}
   back: []
-hash: sha256:4163c8cc40b770d605682a7cba33d7cef5e4637dc384a41d60d061b567c4f6b3
+hash: sha256:8c71054cdec195180c94f3e921f9197e5392d0e8dd2eadc6c9658af019fc484a

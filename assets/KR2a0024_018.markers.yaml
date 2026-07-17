@@ -15,9 +15,11 @@ markers:
   - {type: variant, offset: 5, length: 0, content: '', krp: 唐李延壽撰}
   - {type: line-break, offset: 9, content: '', id: ZHSJ__dup5985}
   - {type: punctuation, offset: 12, content: (, id: KR2a0024_ZHSJ_018-bkkpn1}
+  - {type: voice, offset: 12, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 15, content: ), id: KR2a0024_ZHSJ_018-bkkpn2}
   - {type: indent, offset: 15, content: 　, id: KR2a0024_ZHSJ_018-bkkind1}
   - {type: punctuation, offset: 18, content: (, id: KR2a0024_ZHSJ_018-bkkpn3}
+  - {type: voice, offset: 18, length: 38, name: note, id: n2}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_018-bkkind2}
   - {type: variant, offset: 21, length: 0, content: '', WYG: 眎}
   - {type: variant, offset: 21, length: 0, content: '', krp: 眎}
@@ -47,6 +49,7 @@ markers:
   - {type: punctuation, offset: 58, content: (, id: KR2a0024_ZHSJ_018-bkkpn5}
   - {type: variant, offset: 58, length: 1, content: 玄, WYG: 𤣥}
   - {type: variant, offset: 58, length: 1, content: 玄, krp: 𤣥}
+  - {type: voice, offset: 58, length: 19, name: note, id: n3}
   - {type: indent, offset: 61, content: 　, id: KR2a0024_ZHSJ_018-bkkind10}
   - {type: variant, offset: 61, length: 0, content: '', WYG: 燾弟熹}
   - {type: variant, offset: 61, length: 0, content: '', krp: 燾弟熹}
@@ -5369,4 +5372,4 @@ markers:
   - {type: page-break, offset: 9733, content: '', id: KR2a0024_WYG_018-32b, image: WYG0265/WYG0265-0307b.png}
   - {type: variant, offset: 9733, length: 0, content: '', krp: 南史卷十八南史卷十八考證蕭恵開傳今以蕭恵開為憲司冀當稱職但一徃眼額已自殊有所震眼宋書作服蕭恵明傳郡界有卞山山下有項羽廟本卷中凡三見項羽事此其一也顧炎武謂恵明因發背旬日而卒與齊書李安民為吴興太守不祀神以牛而牛死安民尋卒畧相類蕭恵基弟恵休傳吴興郡項羽神舊酷烈又一項羽神事顧炎武謂下文云恵休事神謹故得美遷畧與本書蕭猷為吴興郡守所禱必從相類蕭琛傳負其才氣侯儉宴于樂游樂游下梁書有苑字後為吴興太守郡有項羽廟又一項羽神事頋炎武謂下文遷之于廟禁祀以牛畧與宋書孔季恭居聴事竟無害相類臧燾傳武帝鎮京口叅帝軍中軍事參帝監本誤參軍今从閣本臧盾傳美風姿善容止毎趣奏梁武帝甚悦焉趣一本作趨南史卷十八考證}
   back: []
-hash: sha256:189428ea2821b5dc2a0f47f8a39844b41ce82fa5c8f9b56d29a1b0ab22c1f769
+hash: sha256:3779672d06161e791fd67d7a43357c828e76ec50ad2cfd6389d26257cf82b496

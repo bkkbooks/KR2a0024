@@ -16,12 +16,14 @@ markers:
   - {type: line-break, offset: 9, content: '', id: ZHSJ__dup5490}
   - {type: indent, offset: 12, content: 　, id: KR2a0024_ZHSJ_016-bkkind1}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_016-bkkpn1}
+  - {type: voice, offset: 15, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0024_ZHSJ_016-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_016-bkkind2}
   - {type: variant, offset: 19, length: 1, content: 脩, WYG: 修}
   - {type: variant, offset: 19, length: 1, content: 脩, krp: 修}
   - {type: substitution, offset: 19, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 21, content: (, id: KR2a0024_ZHSJ_016-bkkpn3}
+  - {type: voice, offset: 21, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 24, content: ), id: KR2a0024_ZHSJ_016-bkkpn4}
   - {type: indent, offset: 24, content: 　, id: KR2a0024_ZHSJ_016-bkkind3}
   - {type: variant, offset: 25, length: 1, content: 弘, WYG: 𢎞}
@@ -34,6 +36,7 @@ markers:
   - {type: variant, offset: 31, length: 1, content: 玄, WYG: 𤣥}
   - {type: variant, offset: 31, length: 1, content: 玄, krp: 𤣥}
   - {type: punctuation, offset: 33, content: (, id: KR2a0024_ZHSJ_016-bkkpn5}
+  - {type: voice, offset: 33, length: 10, name: note, id: n3}
   - {type: indent, offset: 35, content: 　, id: KR2a0024_ZHSJ_016-bkkind5}
   - {type: variant, offset: 37, length: 1, content: 玄, WYG: 𤣥}
   - {type: variant, offset: 37, length: 1, content: 玄, krp: 𤣥}
@@ -4298,4 +4301,4 @@ markers:
   - {type: page-break, offset: 6967, content: '', id: KR2a0024_WYG_016-23b, image: WYG0265/WYG0265-0279b.png}
   - {type: variant, offset: 6967, length: 0, content: '', krp: 南史卷十六南史卷十六考證王鎮惡傳鎮惡以五月生家人以俗忌五月下宋書有五日二字鎮惡身被五箭手所執矟手中破折手中上宋書有於字朱齡石弟超石傳長孫嵩三萬騎肉薄攻營肉監本訛内今改正大軍進剋蒲坂坂監本誤坡今改正傅𢎞之傳洪生梁州刺史歆歆宋書及南本俱作韶朱脩之傳有餉皆受得輒與佐史賭之未嘗入已史宋書作吏王𤣥載弟𤣥邈傳乃北通魏遣書結𤣥邈通監本訛勸今从南本南史卷十六考證}
   back: []
-hash: sha256:417eee2badebde6236000795b3932411943014b86ef3725a3c66e61475272cb9
+hash: sha256:35e4c28c1956b16021a2ca9412ee72e5e17b04ae1367e7fa904b109e4f47cd10

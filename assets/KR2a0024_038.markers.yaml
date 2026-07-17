@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup11925}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_038-bkkpn1}
+  - {type: voice, offset: 15, length: 41, name: note, id: n1}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_038-bkkind1}
   - {type: variant, offset: 21, length: 0, content: '', WYG: 子偃惔弟惲惲}
   - {type: variant, offset: 21, length: 0, content: '', krp: 子偃惔弟惲惲}
@@ -3953,4 +3954,4 @@ markers:
   - {type: page-break, offset: 7069, content: '', id: KR2a0024_WYG_038-23b, image: WYG0265/WYG0265-0580b.png}
   - {type: variant, offset: 7069, length: 0, content: '', krp: 南史卷三十八南史卷三十八考證栁元景傳時魯夾向虎牢復使元景率安都等北出爽退乃遷遷當係還字之訛給班劒三十人班監本訛斑今改正栁惔傳周書父子兄弟罪不相及梁書無父子兄弟四字栁惔弟惲傳唯與王暕陸果善果應作杲栁忱傳忱以巴峽未賔峽梁書作硤誤栁慶逺傳俄而水退退梁書作過問京兆人杜惲求州綱紀梁書少紀字栁仲禮弟敬禮傳將發建安侯蕭賁告之侯監本訛偞今改正又告之梁書作知而去之南史卷三十八考證}
   back: []
-hash: sha256:613e5741117adf0ef4bc6a243207130b484a9e328623ab13f56bf3174b80b9e5
+hash: sha256:4a7c750c6ab0c0bb68ea0bb1a557bf67b9a1ee11dac431cc55b523bcc85172dd

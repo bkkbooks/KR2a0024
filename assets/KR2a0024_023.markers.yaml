@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup7499}
   - {type: punctuation, offset: 13, content: (, id: KR2a0024_ZHSJ_023-bkkpn1}
+  - {type: voice, offset: 13, length: 14, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_023-bkkind1}
   - {type: variant, offset: 16, length: 0, content: '', WYG: 亮瑩從弟}
   - {type: variant, offset: 16, length: 0, content: '', krp: 亮瑩從弟}
@@ -25,15 +26,18 @@ markers:
   - {type: punctuation, offset: 27, content: ), id: KR2a0024_ZHSJ_023-bkkpn2}
   - {type: indent, offset: 27, content: 　, id: KR2a0024_ZHSJ_023-bkkind4}
   - {type: punctuation, offset: 29, content: (, id: KR2a0024_ZHSJ_023-bkkpn3}
+  - {type: voice, offset: 29, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 32, content: ), id: KR2a0024_ZHSJ_023-bkkpn4}
   - {type: indent, offset: 32, content: 　, id: KR2a0024_ZHSJ_023-bkkind5}
   - {type: line-break, offset: 33, content: '', id: ZHSJ__dup7500}
   - {type: variant, offset: 33, length: 1, content: 惠, WYG: 恵}
   - {type: variant, offset: 33, length: 1, content: 惠, krp: 恵}
   - {type: punctuation, offset: 34, content: (, id: KR2a0024_ZHSJ_023-bkkpn5}
+  - {type: voice, offset: 34, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 37, content: ), id: KR2a0024_ZHSJ_023-bkkpn6}
   - {type: indent, offset: 37, content: 　, id: KR2a0024_ZHSJ_023-bkkind6}
   - {type: punctuation, offset: 39, content: (, id: KR2a0024_ZHSJ_023-bkkpn7}
+  - {type: voice, offset: 39, length: 25, name: note, id: n4}
   - {type: indent, offset: 41, content: 　, id: KR2a0024_ZHSJ_023-bkkind7}
   - {type: variant, offset: 41, length: 0, content: '', WYG: 子藴彧兄}
   - {type: variant, offset: 41, length: 0, content: '', krp: 子藴彧兄}
@@ -6695,4 +6699,4 @@ markers:
   - {type: variant, offset: 11269, length: 0, content: '', WYG: 南史卷二十三}
   - {type: variant, offset: 11269, length: 0, content: '', krp: 南史卷二十三}
   back: []
-hash: sha256:476aa03e9837f5106c56840b27ef312e3508378678262bd4c8f3910f451985ad
+hash: sha256:86d91b6dfa782089c68449dc5c96f1b85eac3dbd1821bcdfcbffb1c8a51d3859

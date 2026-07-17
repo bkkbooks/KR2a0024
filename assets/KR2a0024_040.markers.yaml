@@ -16,9 +16,11 @@ markers:
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup12411}
   - {type: indent, offset: 12, content: 　, id: KR2a0024_ZHSJ_040-bkkind1}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_040-bkkpn1}
+  - {type: voice, offset: 15, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0024_ZHSJ_040-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_040-bkkind2}
   - {type: punctuation, offset: 20, content: (, id: KR2a0024_ZHSJ_040-bkkpn3}
+  - {type: voice, offset: 20, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 22, content: ), id: KR2a0024_ZHSJ_040-bkkpn4}
   - {type: indent, offset: 22, content: 　, id: KR2a0024_ZHSJ_040-bkkind3}
   - {type: indent, offset: 24, content: 　, id: KR2a0024_ZHSJ_040-bkkind4}
@@ -3047,4 +3049,4 @@ markers:
   - {type: page-break, offset: 5944, content: '', id: KR2a0024_WYG_040-20b, image: WYG0265/WYG0265-0600d.png}
   - {type: variant, offset: 5944, length: 0, content: '', krp: 南史卷四十南史卷四十考證薛安都傳父廣為宗豪宋武帝定闗河以為上黨太守北史作父廣晉上黨太守元嘉二十一年來奔北史真君五年與東雍州刺史沮渠康謀逆事發奔宋青州刺史沈文季季北史作秀明帝遣齊髙帝率前將軍張永等北討北史作明帝遣將張永討安都黄回傳竟陵郡軍人也郡南本作都南史卷四十考證}
   back: []
-hash: sha256:cb126fffdb0294d384e10a8e0f6d410b4412fa977e45fb2d6b74084fd5b92667
+hash: sha256:e2721ed41b4784233265afe9c774762595a921ae1cf44c0c3507615440868f8d

@@ -16,10 +16,12 @@ markers:
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup21295}
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup21296}
   - {type: punctuation, offset: 17, content: (, id: KR2a0024_ZHSJ_072-bkkpn1}
+  - {type: voice, offset: 17, length: 6, name: note, id: n1}
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_072-bkkind1}
   - {type: punctuation, offset: 23, content: ), id: KR2a0024_ZHSJ_072-bkkpn2}
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_072-bkkind2}
   - {type: punctuation, offset: 25, content: (, id: KR2a0024_ZHSJ_072-bkkpn3}
+  - {type: voice, offset: 25, length: 9, name: note, id: n2}
   - {type: variant, offset: 26, length: 2, content: 襄吳, WYG: 㐮道呉}
   - {type: variant, offset: 26, length: 2, content: 襄吳, krp: 㐮道呉}
   - {type: indent, offset: 27, content: 　, id: KR2a0024_ZHSJ_072-bkkind3}
@@ -31,6 +33,7 @@ markers:
   - {type: punctuation, offset: 34, content: ), id: KR2a0024_ZHSJ_072-bkkpn4}
   - {type: indent, offset: 34, content: 　, id: KR2a0024_ZHSJ_072-bkkind5}
   - {type: punctuation, offset: 36, content: (, id: KR2a0024_ZHSJ_072-bkkpn5}
+  - {type: voice, offset: 36, length: 7, name: note, id: n3}
   - {type: variant, offset: 38, length: 1, content: 勗, WYG: 朂}
   - {type: variant, offset: 38, length: 1, content: 勗, krp: 朂}
   - {type: line-break, offset: 39, content: '', id: ZHSJ__dup21297}
@@ -40,6 +43,7 @@ markers:
   - {type: variant, offset: 43, length: 0, content: '', WYG: 孫抱}
   - {type: variant, offset: 43, length: 0, content: '', krp: 孫抱}
   - {type: punctuation, offset: 46, content: (, id: KR2a0024_ZHSJ_072-bkkpn7}
+  - {type: voice, offset: 46, length: 17, name: note, id: n4}
   - {type: indent, offset: 48, content: 　, id: KR2a0024_ZHSJ_072-bkkind8}
   - {type: variant, offset: 48, length: 0, content: '', WYG: 憲}
   - {type: variant, offset: 48, length: 0, content: '', krp: 憲}
@@ -61,6 +65,7 @@ markers:
   - {type: indent, offset: 66, content: 　, id: KR2a0024_ZHSJ_072-bkkind14}
   - {type: indent, offset: 69, content: 　, id: KR2a0024_ZHSJ_072-bkkind15}
   - {type: punctuation, offset: 72, content: (, id: KR2a0024_ZHSJ_072-bkkpn9}
+  - {type: voice, offset: 72, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 73, content: '[', id: KR2a0024_ZHSJ_072-bkkpn10}
   - {type: punctuation, offset: 73, content: ⿰, id: KR2a0024_ZHSJ_072-bkkpn11}
   - {type: variant, offset: 73, length: 2, content: 耳幾, WYG: 暅}
@@ -77,10 +82,12 @@ markers:
   - {type: indent, offset: 83, content: 　, id: KR2a0024_ZHSJ_072-bkkind19}
   - {type: line-break, offset: 85, content: '', id: ZHSJ__dup21299}
   - {type: punctuation, offset: 87, content: (, id: KR2a0024_ZHSJ_072-bkkpn14}
+  - {type: voice, offset: 87, length: 3, name: note, id: n6}
   - {type: indent, offset: 89, content: 　, id: KR2a0024_ZHSJ_072-bkkind20}
   - {type: punctuation, offset: 90, content: ), id: KR2a0024_ZHSJ_072-bkkpn15}
   - {type: indent, offset: 90, content: 　, id: KR2a0024_ZHSJ_072-bkkind21}
   - {type: punctuation, offset: 92, content: (, id: KR2a0024_ZHSJ_072-bkkpn16}
+  - {type: voice, offset: 92, length: 5, name: note, id: n7}
   - {type: indent, offset: 94, content: 　, id: KR2a0024_ZHSJ_072-bkkind22}
   - {type: punctuation, offset: 97, content: ), id: KR2a0024_ZHSJ_072-bkkpn17}
   - {type: indent, offset: 97, content: 　, id: KR2a0024_ZHSJ_072-bkkind23}
@@ -88,11 +95,13 @@ markers:
   - {type: variant, offset: 100, length: 1, content: 吳, WYG: 呉}
   - {type: variant, offset: 100, length: 1, content: 吳, krp: 呉}
   - {type: punctuation, offset: 102, content: (, id: KR2a0024_ZHSJ_072-bkkpn18}
+  - {type: voice, offset: 102, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 104, content: ), id: KR2a0024_ZHSJ_072-bkkpn19}
   - {type: indent, offset: 104, content: 　, id: KR2a0024_ZHSJ_072-bkkind25}
   - {type: substitution, offset: 105, original: 勰, replacement: 協, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19818}}
   - {type: line-break, offset: 106, content: '', id: ZHSJ__dup21300}
   - {type: punctuation, offset: 109, content: (, id: KR2a0024_ZHSJ_072-bkkpn20}
+  - {type: voice, offset: 109, length: 5, name: note, id: n9}
   - {type: indent, offset: 111, content: 　, id: KR2a0024_ZHSJ_072-bkkind26}
   - {type: variant, offset: 111, length: 0, content: '', WYG: 雲}
   - {type: variant, offset: 111, length: 0, content: '', krp: 雲}
@@ -6408,4 +6417,4 @@ markers:
   - {type: page-break, offset: 10830, content: '', id: KR2a0024_WYG_072-36b, image: WYG0265/WYG0265-1031d.png}
   - {type: variant, offset: 10830, length: 0, content: '', krp: 南史卷七十二南史卷七十二考證文學傳叙大則憲章典誥小則申抒性靈憲監本訛獻今改正丘靈鞠傳在沈淵坐見王儉詩一本淵作深儉注云一作徐子遲傳遲字希範遲監本訛達今改正卞彬傳我詩應湏大材迮之不爾飛去迮監本作迂今从閣本崔慰祖傳悉火焚之火監本訛人从南本改正可冩數本付䕶軍諸從事人一通南本脱事字今以監本為是何思澄傳又作鼓吹曲鼓吹監本誤取次今改从閣本任孝恭傳初為奉朝請奉監本訛舉今改正少從蕭寺雲法師讀經論明佛理師監本訛諦今从閣本改正顔協傳晉侍中含七世孫也含監本訛舍今改从南本杜之偉傳年十五遍觀文史及儀體故事體一本作禮岑之敬傳位中軍呉興王記室呉興監本誤英與今改从閣本史臣論然則立身之道可無務乎身監本誤少今从南本改正南史卷七十二考證}
   back: []
-hash: sha256:3724276192bcbcac911d999d355c7c761688349fb5ad44b1fbde98c26a8d68d5
+hash: sha256:cb2b6cccd0f61e88c74f52c9360f905f3dc2c34156c1f82c1c2b941c73f42b28

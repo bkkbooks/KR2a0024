@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup11622}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_037-bkkpn1}
+  - {type: voice, offset: 15, length: 20, name: note, id: n1}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_037-bkkind1}
   - {type: variant, offset: 19, length: 0, content: '', WYG: 子}
   - {type: variant, offset: 19, length: 0, content: '', krp: 子}
@@ -36,6 +37,7 @@ markers:
   - {type: punctuation, offset: 36, content: (, id: KR2a0024_ZHSJ_037-bkkpn3}
   - {type: variant, offset: 36, length: 0, content: '', WYG: 慤}
   - {type: variant, offset: 36, length: 0, content: '', krp: 慤}
+  - {type: voice, offset: 36, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 39, content: ), id: KR2a0024_ZHSJ_037-bkkpn4}
   - {type: xml-element, offset: 39, content: '', id: KR2a0024_ZHSJ_037-bkkxmlele2}
   - {type: xml-element, offset: 39, content: '', id: KR2a0024_ZHSJ_037-bkkxmlele3}
@@ -4525,4 +4527,4 @@ markers:
   - {type: page-break, offset: 8656, content: '', id: KR2a0024_WYG_037-27b, image: WYG0265/WYG0265-0568b.png}
   - {type: variant, offset: 8656, length: 0, content: '', krp: 南史卷三十七}
   back: []
-hash: sha256:f1ceb37f153f77230a676e7e4f6818fe491de286503911c44ede5d133f38a98c
+hash: sha256:f6eb7ba9c24a36dd449d954bafdedf08fc380670a5ffb3bc43f8e7299bca3bab

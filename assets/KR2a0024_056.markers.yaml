@@ -19,11 +19,13 @@ markers:
   - {type: variant, offset: 14, length: 1, content: 策, WYG: 䇿}
   - {type: variant, offset: 14, length: 1, content: 策, krp: 䇿}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_056-bkkpn1}
+  - {type: voice, offset: 15, length: 4, name: note, id: n1}
   - {type: indent, offset: 17, content: 　, id: KR2a0024_ZHSJ_056-bkkind1}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_056-bkkind2}
   - {type: punctuation, offset: 19, content: ), id: KR2a0024_ZHSJ_056-bkkpn2}
   - {type: indent, offset: 19, content: 　, id: KR2a0024_ZHSJ_056-bkkind3}
   - {type: punctuation, offset: 21, content: (, id: KR2a0024_ZHSJ_056-bkkpn3}
+  - {type: voice, offset: 21, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 24, content: ), id: KR2a0024_ZHSJ_056-bkkpn4}
   - {type: indent, offset: 24, content: 　, id: KR2a0024_ZHSJ_056-bkkind4}
   - {type: indent, offset: 27, content: 　, id: KR2a0024_ZHSJ_056-bkkind5}
@@ -31,6 +33,7 @@ markers:
   - {type: variant, offset: 27, length: 1, content: 呂, krp: 吕}
   - {type: line-break, offset: 30, content: '', id: ZHSJ__dup16716}
   - {type: punctuation, offset: 32, content: (, id: KR2a0024_ZHSJ_056-bkkpn5}
+  - {type: voice, offset: 32, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 35, content: ), id: KR2a0024_ZHSJ_056-bkkpn6}
   - {type: xml-element, offset: 35, content: '', id: KR2a0024_ZHSJ_056-bkkxmlele2}
   - {type: xml-element, offset: 35, content: '', id: KR2a0024_ZHSJ_056-bkkxmlele3}
@@ -4340,4 +4343,4 @@ markers:
   - {type: page-break, offset: 7296, content: '', id: KR2a0024_WYG_056-24b, image: WYG0265/WYG0265-0807d.png}
   - {type: variant, offset: 7296, length: 0, content: '', krp: 南史卷五十六南史卷五十六考證張緬傳俄復舊任舊任閣本作為真張纘傳帝執四部書目曰君讀此畢可言優仕矣梁書帝作常君作若以粽密之屬還其家密閣本作宻應改从之張綰傳太清三年為吏部尚書三梁書作二吕僧珍傳姊適于氏于一本作干因醉後取一甘食甘監本誤升梁書嘗因醉後取一柑食之應改从之樂藹傳張華以為積油久灰必然久灰閣本作萬匹又注云匹一作石史臣論克濟陶冶之功陶冶梁書作温陶應改从之南史卷五十六考證}
   back: []
-hash: sha256:cdb0f4d8019be899167dace8d29154320f9e2ea534d9c0cd5991cc9b29385564
+hash: sha256:22f5dec9abe63e5445cc218864f0268f03214bf25e7be15592b1c4e35d953c6d

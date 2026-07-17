@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 17, length: 1, content: 歷, WYG: 歴}
   - {type: variant, offset: 17, length: 1, content: 歷, krp: 歴}
   - {type: punctuation, offset: 18, content: (, id: KR2a0024_ZHSJ_068-bkkpn1}
+  - {type: voice, offset: 18, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 20, content: ), id: KR2a0024_ZHSJ_068-bkkpn2}
   - {type: indent, offset: 20, content: 　, id: KR2a0024_ZHSJ_068-bkkind2}
   - {type: indent, offset: 23, content: 　, id: KR2a0024_ZHSJ_068-bkkind3}
@@ -3020,4 +3021,4 @@ markers:
   - {type: page-break, offset: 5457, content: '', id: KR2a0024_WYG_068-18b, image: WYG0265/WYG0265-0967d.png}
   - {type: variant, offset: 5457, length: 0, content: '', krp: 南史卷六十八南史卷六十八考證蔡景歴傳景歴對使人答書筆不停輟文無所改筆監本誤等今改从陳書前後姦詭并受歐陽威餉絹百匹陳書詭作訛又歐陽下有武字今各本俱同仍之宗元饒傳事無巨細一以貫之貫陳書作咨劉師知傳好學有當務才務陳書作世毛喜傳宣帝曰子高即欲收執何更如是陳書高祖驚曰子高謀反即欲收執何為更如是耶較詳南史卷六十八考證}
   back: []
-hash: sha256:ce52ebd50c3cf68cafbcd09b64c47e979b229410cb29c2c7ea4d4d670c24f440
+hash: sha256:e743af5c56afedb1b25831522820cdccab005c19fd8faabc347f9f289bbe4394

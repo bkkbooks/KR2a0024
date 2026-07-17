@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup8860}
   - {type: punctuation, offset: 13, content: (, id: KR2a0024_ZHSJ_027-bkkpn1}
+  - {type: voice, offset: 13, length: 8, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0024_ZHSJ_027-bkkind1}
   - {type: variant, offset: 16, length: 0, content: '', WYG: 孫奐}
   - {type: variant, offset: 16, length: 0, content: '', krp: 孫奐}
@@ -23,9 +24,11 @@ markers:
   - {type: punctuation, offset: 21, content: ), id: KR2a0024_ZHSJ_027-bkkpn2}
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_027-bkkind2}
   - {type: punctuation, offset: 24, content: (, id: KR2a0024_ZHSJ_027-bkkpn3}
+  - {type: voice, offset: 24, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 26, content: ), id: KR2a0024_ZHSJ_027-bkkpn4}
   - {type: indent, offset: 26, content: 　, id: KR2a0024_ZHSJ_027-bkkind3}
   - {type: punctuation, offset: 29, content: (, id: KR2a0024_ZHSJ_027-bkkpn5}
+  - {type: voice, offset: 29, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 33, content: ), id: KR2a0024_ZHSJ_027-bkkpn6}
   - {type: xml-element, offset: 33, content: '', id: KR2a0024_ZHSJ_027-bkkxmlele2}
   - {type: xml-element, offset: 33, content: '', id: KR2a0024_ZHSJ_027-bkkxmlele3}
@@ -3857,4 +3860,4 @@ markers:
   - {type: page-break, offset: 6510, content: '', id: KR2a0024_WYG_027-21b, image: WYG0265/WYG0265-0436b.png}
   - {type: variant, offset: 6510, length: 0, content: '', krp: 南史卷二十七南史卷二十七考證孔靖傳言項羽神為卞山王又一項羽神事特進左光禄大夫辭事東歸帝餞之戲馬臺一本無左字又餞字上有親字靈符慤實有材幹材監本誤堪今改从閣本孔奐傳除司徒左長史遷給事黄門侍郎一本作除司徒長史左遷給事黄門侍郎加以識鑑人物詳練百氏監本脫以字一本并脫識字南史卷二十七考證}
   back: []
-hash: sha256:c9f71162c195be555aa235a2fe75df01280c39ae94af52fb96e91a71d94c81a4
+hash: sha256:d2f3fd53e83cf0483d9f18caa5ec6922ee575eff5666c7b5a8f0f13b0c8fb158

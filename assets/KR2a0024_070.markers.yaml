@@ -25,9 +25,11 @@ markers:
   - {type: indent, offset: 21, content: 　, id: KR2a0024_ZHSJ_070-bkkind4}
   - {type: indent, offset: 24, content: 　, id: KR2a0024_ZHSJ_070-bkkind5}
   - {type: punctuation, offset: 27, content: (, id: KR2a0024_ZHSJ_070-bkkpn1}
+  - {type: voice, offset: 27, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 29, content: ), id: KR2a0024_ZHSJ_070-bkkpn2}
   - {type: line-break, offset: 29, content: '', id: ZHSJ__dup20522}
   - {type: punctuation, offset: 31, content: (, id: KR2a0024_ZHSJ_070-bkkpn3}
+  - {type: voice, offset: 31, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 33, content: ), id: KR2a0024_ZHSJ_070-bkkpn4}
   - {type: indent, offset: 33, content: 　, id: KR2a0024_ZHSJ_070-bkkind6}
   - {type: substitution, offset: 34, original: 愿, replacement: 願, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17675}}
@@ -35,6 +37,7 @@ markers:
   - {type: variant, offset: 37, length: 1, content: 範, WYG: 軌}
   - {type: variant, offset: 37, length: 1, content: 範, krp: 軌}
   - {type: punctuation, offset: 38, content: (, id: KR2a0024_ZHSJ_070-bkkpn5}
+  - {type: voice, offset: 38, length: 3, name: note, id: n3}
   - {type: substitution, offset: 39, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: punctuation, offset: 41, content: ), id: KR2a0024_ZHSJ_070-bkkpn6}
   - {type: indent, offset: 41, content: 　, id: KR2a0024_ZHSJ_070-bkkind8}
@@ -42,6 +45,7 @@ markers:
   - {type: indent, offset: 43, content: 　, id: KR2a0024_ZHSJ_070-bkkind9}
   - {type: line-break, offset: 46, content: '', id: ZHSJ__dup20523}
   - {type: punctuation, offset: 48, content: (, id: KR2a0024_ZHSJ_070-bkkpn7}
+  - {type: voice, offset: 48, length: 3, name: note, id: n4}
   - {type: variant, offset: 50, length: 1, content: 廉, WYG: 亷}
   - {type: variant, offset: 50, length: 1, content: 廉, krp: 亷}
   - {type: punctuation, offset: 51, content: ), id: KR2a0024_ZHSJ_070-bkkpn8}
@@ -6522,4 +6526,4 @@ markers:
   - {type: page-break, offset: 11297, content: '', id: KR2a0024_WYG_070-36b, image: WYG0265/WYG0265-0996b.png}
   - {type: variant, offset: 11297, length: 0, content: '', krp: 南史卷七十南史卷七十考證循吏傳敘彫欒綺節珠窓網戸欒監本訛奕一本作栾今从南本杜驥傳年十三父使候同郡韋華韋監本訛世今从閣本改杜慧慶傳慧慶悉出宗族私財以充勸賞出監本訛為今改正傳琰傳久之復除始新令始監本訛如今改从南本虞愿傳帝尤好逐夷以銀鉢盛蜜漬之一食數鉢逐夷鮝魚腸胃之别名也沈瑀傳司徒竟陵王子良聞瑀名引為府行參軍領揚州部傳從事閣本無傳字郭祖深傳僧尼十餘萬資産豐沃監本缺僧字今増入南史卷七十考證}
   back: []
-hash: sha256:76611a08af479833744e5638597a3516caf86a90a73695c49209cb531bbb4c23
+hash: sha256:d38a1c8475f5ff6e3d406ec29d395f879f0fbaa5414da62714e4ba5addbe77e8

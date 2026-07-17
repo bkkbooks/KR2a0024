@@ -16,24 +16,29 @@ markers:
   - {type: line-break, offset: 9, content: '', id: ZHSJ__dup5739}
   - {type: indent, offset: 12, content: 　, id: KR2a0024_ZHSJ_017-bkkind1}
   - {type: punctuation, offset: 15, content: (, id: KR2a0024_ZHSJ_017-bkkpn1}
+  - {type: voice, offset: 15, length: 5, name: note, id: n1}
   - {type: indent, offset: 18, content: 　, id: KR2a0024_ZHSJ_017-bkkind2}
   - {type: punctuation, offset: 20, content: ), id: KR2a0024_ZHSJ_017-bkkpn2}
   - {type: indent, offset: 20, content: 　, id: KR2a0024_ZHSJ_017-bkkind3}
   - {type: punctuation, offset: 22, content: (, id: KR2a0024_ZHSJ_017-bkkpn3}
+  - {type: voice, offset: 22, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 25, content: ), id: KR2a0024_ZHSJ_017-bkkpn4}
   - {type: indent, offset: 25, content: 　, id: KR2a0024_ZHSJ_017-bkkind4}
   - {type: line-break, offset: 27, content: '', id: ZHSJ__dup5740}
   - {type: indent, offset: 29, content: 　, id: KR2a0024_ZHSJ_017-bkkind5}
   - {type: punctuation, offset: 31, content: (, id: KR2a0024_ZHSJ_017-bkkpn5}
+  - {type: voice, offset: 31, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 33, content: ), id: KR2a0024_ZHSJ_017-bkkpn6}
   - {type: indent, offset: 33, content: 　, id: KR2a0024_ZHSJ_017-bkkind6}
   - {type: indent, offset: 35, content: 　, id: KR2a0024_ZHSJ_017-bkkind7}
   - {type: indent, offset: 38, content: 　, id: KR2a0024_ZHSJ_017-bkkind8}
   - {type: punctuation, offset: 41, content: (, id: KR2a0024_ZHSJ_017-bkkpn7}
+  - {type: voice, offset: 41, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 44, content: ), id: KR2a0024_ZHSJ_017-bkkpn8}
   - {type: line-break, offset: 44, content: '', id: ZHSJ__dup5741}
   - {type: indent, offset: 46, content: 　, id: KR2a0024_ZHSJ_017-bkkind9}
   - {type: punctuation, offset: 49, content: (, id: KR2a0024_ZHSJ_017-bkkpn9}
+  - {type: voice, offset: 49, length: 19, name: note, id: n5}
   - {type: indent, offset: 53, content: 　, id: KR2a0024_ZHSJ_017-bkkind10}
   - {type: variant, offset: 53, length: 0, content: '', WYG: 之}
   - {type: variant, offset: 53, length: 0, content: '', krp: 之}
@@ -3988,4 +3993,4 @@ markers:
   - {type: page-break, offset: 7042, content: '', id: KR2a0024_WYG_017-23b, image: WYG0265/WYG0265-0291b.png}
   - {type: variant, offset: 7042, length: 0, content: '', krp: 南史卷十七南史卷十七考證劉懷肅傳桓石綏司馬國璠陳襲於胡桃山聚衆為寇綏監本訛緩今改正劉粹傳道養枹䍐人也枹監本訛抱今改正虞邱進傳少時隨謝𤣥討苻堅謝𤣥下監本衍謝𤣥二字今从宋書删去劉康祖傳歴南平王鑠安蠻府司馬鑠監本訛錄今改正南史卷十七考證}
   back: []
-hash: sha256:0b3b0bee4aa68a611d0551ad33e1d553c3d6b4a098169fba5278e5d846272cfc
+hash: sha256:2239b5bc5e06b61f87ea0b12aa478cf27b7ba1ded42f8bb196da323cb061d539

@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 5, length: 0, content: '', krp: 唐李延夀撰}
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup9512}
   - {type: punctuation, offset: 13, content: (, id: KR2a0024_ZHSJ_030-bkkpn1}
+  - {type: voice, offset: 13, length: 29, name: note, id: n1}
   - {type: indent, offset: 15, content: 　, id: KR2a0024_ZHSJ_030-bkkind1}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 㸃求弟}
   - {type: variant, offset: 15, length: 0, content: '', krp: 㸃求弟}
@@ -4853,4 +4854,4 @@ markers:
   - {type: page-break, offset: 7597, content: '', id: KR2a0024_WYG_030-26b, image: WYG0265/WYG0265-0469d.png}
   - {type: variant, offset: 7597, length: 0, content: '', krp: 南史卷三十南史卷三十考證何尚之傳尚之立身簡約車服率素簡監本作節今从宋書何偃傳親遇隆宻有加舊臣宻監本訛宓今从閣本何㸃傳性通脱好施脱監本訛悦今改正何𦙍傳廼起學舍即林成援援監本訛授今改正並衣帢行列在前帢監本訛恰今改从梁書䱇之就脯驟扵屈申䱇監本訛鮔今从閣本何昌㝢傳景素被誅昌㝢痛之景監本訛尹今从上文建平王景素改正髙帝義之髙帝監本作彦回今从閣本帝將踐阼先使裴叔業往宻勅昌㝢往宻勅昌㝢一本作賚㫖詔昌㝢寜得從君單詔行事吾自有啟聞湏反更議一本作寜得從軍單詔行事耶自有啟文湏反更議拒詔恐非佳事耳一本作拒詔軍法從事耳僕有沿流之計耳僕一本作政何敬容傳嘗有侍臣衣帶卷摺帶監本訛冠今从閣本南史卷三十考證}
   back: []
-hash: sha256:675d6fa0e054ddf24b57edbbff12ad56d901415b1273bcc243ebfebbd9984ab7
+hash: sha256:1f48b06cdad836ebf0c89b12f4e3a267c5a67020a671c20c86dc656a98da1b91
